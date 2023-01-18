@@ -1,0 +1,25 @@
+3GPP TS 33.501
+<font size=5>3GPP TS 33.501</font>
+<br>
+"Security Architecture and Procedures for 5G System"
+</>
+3GPP TS 36.331
+<font size=5>3GPP TS 36.331</font>
+<br>
+"Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Resource Control (RRC); Protocol specification"
+</>
+3GPP TS 29.500
+<font size=5>3GPP TS 29.500</font>
+<br>
+"5G System; Technical Realization of Service Based Architecture; Stage 3"
+</>
+3GPP TS 29.518
+<font size=5>3GPP TS 29.518</font>
+<br>
+"5G System; Access and Mobility Management Services; Stage 3"
+</>
+3GPP TS 23.503
+<font size=5>3GPP TS 23.503</font>
+<br>
+"Policy and Charging Control Framework for the 5G System "
+</>
