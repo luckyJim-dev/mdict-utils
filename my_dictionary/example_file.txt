@@ -1,0 +1,805 @@
+NGEN-DC:E-UTRA NR Dual Connectivity (i.e. covering both EN-DC and NGEN-DC)
+1xRTT CPICH:CDMA2000 1x Radio Transmission Technology Common Pilot Channel
+1xRTT AM:CDMA2000 1x Radio Transmission Technology Acknowledged Mode
+1xx:A status-code in the range 101 through 199, and excluding 100
+2xx:A status-code in the range 200 through 299
+3GPP:3rd Generation Partnership Project
+5GCN:5G Core Network
+AAA:Authentication Authorisation Accounting
+AC:Access Condition
+ACDC:Application specific Congestion control for Data Communication
+ACK:Acknowledgement
+ACL:APN Control List
+ADF:Application Dedicated File
+AF:Application Function
+AID:Application Identifier
+AK:Anonymity key
+AKA:Authentication and Key Agreement
+ALW:ALWays
+AM:Acknowledged Mode
+AMBR:Aggregate Maximum Bit Rate
+AMD:AM Data
+AMF:Authentication Management Field
+AoC:Advice of Charge
+APN:Access Point Name
+APN-AMBR:APN Aggregate Maximum Bit Rate
+ARFCN:Absolute radio frequency channel number
+ARP:Allocation Retention Priority
+ARP:Address Resolution Protocol
+ARQ:Automatic Repeat reQuest
+AS:Application Server
+AS:Access Stratum
+AS layer:Access Stratum layer
+ASCI:Advanced Speech Call Items;including VGCS;VBS and eMLPP
+ASME:Access Security Management Entity
+ASN.1:Abstract Syntax Notation One 
+ASN.1:Abstract Syntax Notation One
+AT:ATtention; this two character abbreviation is always used to start a command line to be sent from TE to TA
+AuC:Authentication Centre
+AUL:Autonomous Uplink
+AUL-DFI:AUL downlink feedback information
+AUL-UCI:AUL uplink control information
+AUTN:Authentication TokeN
+AV:Authentication Vector
+AVP:Attribute-Value Pair
+B2BUA:Back-to-Back User Agent
+BCCH:Broadcast Control CHannel
+BCD:Binary Coded Decimal
+BCD:Binary Coded Decimal
+BCH:Broadcast Channel
+BCH:Broadcast channel
+BDN:Barred Dialling Number
+BER-TLV:Basic Encoding Rule - TLV
+BGCF:Breakout Gateway Control Function
+BLER:Block error rate
+BPSK:Binary Phase Shift Keying
+BRAS:Broadband Remote Access Server
+BSR:Buffer status report
+B-TID:Bootstrapping Transaction Identifier
+C:conditional
+CA:Carrier Aggregation
+CAG:Closed Access Group
+CAT:Customized Alerting Tone
+CCCH:Common Control CHannel
+CCE:Control Channel Element 
+CCE:Control Channel Element
+CCF:Charging Collection Function
+CCO:Cell Change Order
+CCP:Capability Configuration Parameter
+CDD:Cyclic Delay Diversity
+CDF:Charging Data Function
+CDR:Charging Data Record
+CFI:Control Format Indicator
+CG:Cell Group
+CID:Context Identifier
+CIF:Carrier Indicator Field
+CK:Ciphering Key
+CLF:Connectivity Session and Repository Location Function
+CLI:Calling Line Identifier
+CMAS:Commercial Mobile Alert Service
+CN:Core Network
+CNL:Co-operative Network List
+CoMP:Coordinated Multi-Point
+COT:Channel Occupancy Time
+CP:Cyclic Prefix
+CPBCCH:COMPACT Packet BCCH
+CPC:Calling Party's Category
+CQI:Channel Quality Indicator
+CQI:Channel Quality Indicator
+CR:Cell register
+CRC:Cyclic Redundancy Check 
+CRC:Cyclic Redundancy Check
+CRI:CSI-RS Resource Indicator
+C-RNTI:Cell radio network temporary identities
+CRS:Cell-specific Reference Signal
+CS:Circuit switched
+CSCF:Call Session Control Function
+CSFB:CS fallback
+CSG:Closed Subscriber Group
+CSI:Channel State Information
+CSI-RS:Channel state information reference signal
+CTS:Cordless Telephony System
+DAI:Downlink Assignment Index
+DC:Dual carrier
+DCCH:Dedicated Control CHannel
+DCI:Downlink Control Information
+DCK:Depersonalisation Control Keys
+DF:Dedicated File
+DHCP:Dynamic Host Configuration Protocol
+DL:Downlink
+DL-SCH:Downlink Shared Channel
+EPDCCH:Enhanced Physical Downlink Control channel
+ENDC:E-UTRA NR Dual Connectivity with MCG using E-UTRA and SCG using NR
+DM-RS:Demodulation Reference Signal
+DNS:Domain Name System
+DO:Data Object 
+DOCSIS:Data Over Cable Service Interface Specification
+DRB:Data Radio Bearer carrying user plane data
+DST:Daylight Saving Time. Adjustment for summer time.
+DTD:Document Type Definition
+DTMF:Dual Tone Multi Frequency
+DTX:Discontinuous Transmission
+DTX:Discontinuous Transmission
+DUCK:Discovery User Confidentiality Key
+DUIK:Discovery User Integrity Key
+DUSK:Discovery User Scrambling Key
+eNB:E-UTRAN Node B
+e2ae-security:End-to-access edge security 
+EAB:Extended Access Barring
+EARFCN:Evolved Absolute Radio Frequency Channel Number
+EATF:Emergency Access Transfer Function
+EC:Emergency Centre
+ECCE:Enhanced Control Channel Element
+ECF:Event Charging Function
+EC-GSM-IoT:Extended coverage in GSM for IoT
+ECM:EPS Connection Management
+E-CSCF:Emergency CSCF
+eDRX:Extended Discontinuous Reception
+EDT:Early Data Transmission
+EPDCCH:Enhanced Physical Downlink Control Channel
+EF:Elementary File
+eKSI:Key Set Identifier for E-UTRAN
+eMLPP:Enhanced Multi-Level Precedence and Pre-emption Service
+EMM:EPS Mobility Management
+ENB:Evolved Node B
+EN-DC:E-UTRA NR Dual Connectivity with E-UTRAN connected to EPC
+eNode-B:Evolved Node B
+EPC:Evolved Packet Core Network
+EPDCCH:Enhanced Physical Downlink Control Channel
+ePDG:Evolved Packet Data Gateway
+EPRE:Energy Per Resource Element 
+EPS:Evolved Packet System
+EREG:Enhanced Resource-Element Group
+ESM:EPS Session Management
+E-SMLC:Enhanced Serving Mobile Location Centre
+ESP:Encapsulating Security Payload
+ETSI:European Telecommunications Standards Institute
+ETWS:Earthquake and Tsunami Warning System
+E-UTRA:Evolved universal terrestrial radio access
+E-UTRA/5GC:E-UTRA connected to 5GC
+E-UTRA/EPC:E-UTRA connected to EPC
+E-UTRAN:Evolved Universal Terrestrial Radio Access Network
+E-UTRAN :Evolved UTRAN
+FMS:First missing PDCP SN
+EVPF:Enhanced Validity Period Format
+FAP:cdma2000? 1x Femtocell Access Point
+FCP:File Control Parameters
+FDD:Frequency Division Duplex
+FFS:For Further Study
+FI:Framing Info
+FQDN:Full Qualified Domain Name
+FTM:Frame Tunnelling Mode (refer 3GPP TS 27.001 [41] and 3GPP TS 29.007 [42])
+GBR:Guaranteed Bit Rate
+GCI:Global Cable Identifier
+GCID:GPRS Charging Identifier 
+GERAN:GSM/EDGE Radio Access Network
+GGSN:Gateway GPRS Support Node
+GIBA:GPRS-IMS-Bundled Authentication
+GLI:Global Line Identifier
+GMM:GPRS Mobility Management
+gNB:gNodeB
+GNSS:Global Navigation Satellite System
+GNSS:Global Navigation Satellite System
+GPRS:General Packet Radio Service
+G-RNTI:Group RNTI
+GRUU:Globally Routable User agent URI
+GSM:Global System for Mobile Communications
+GSM:Global System for Mobile communication
+GUMMEI:Globally Unique MME Identifier
+GUTI:Globally Unique Temporary Identifier
+GWUS:Group Wake Up Signal
+HARQ:Hybrid Automatic Repeat Request
+HARQ:Hybrid automatic repeat request
+HDR:High data rate
+HE:Home Environment
+HeNB:Home eNode B
+HFN:Hyper Frame Number
+HI:HARQ indicator
+HN:Home Network
+HNB:Home NodeB
+HPLMN:Home Public Land Mobile Network
+HRPD:CDMA2000 High Rate Packet Data
+HSCSD:High Speed Circuit Switched Data
+HSDN:High Speed Dedicated Network
+H-SFN:Hyper SFN
+HSS:Home Subscriber Server
+IAB:Integrated Access and Backhaul
+IAB-DU:IAB-node DU
+IAB-MT:IAB Mobile Termination
+IARI:IMS Application Reference Identifier
+IBCF:Interconnection Border Control Function
+ICC:Integrated Circuit Card
+ICE:Interactive Connectivity Establishment
+ICE:In Case of Emergency
+ICI:Incoming Call Information
+ICID:IM CN subsystem Charging Identifier
+ICS:Implementation Conformance Statement
+I-CSCF:Interrogating CSCF
+ICSI:IMS Communication Service Identifier
+ICT:Incoming Call Timer
+ID:Identifier
+IDC:In-Device Coexistence
+Idi:Identity of the initiator
+Idr:Identity of the responder
+IE:Information element
+IEI:Information Element Identifier
+IETF :Internet Engineering Task Force
+IK:Integrity Key
+IKE:Internet Key Exchange
+IM:IP Multimedia
+IMC:IMS Credentials
+IMEI:International Mobile Equipment Identity
+IMPI:IM Private Identity
+IMPU:IM Public Identity
+IMS:IP Multimedia core network Subsystem
+IMS:IP Multimedia Core Network Subsystem 
+IMS-ALG:IMS Application Level Gateway 
+IMSI:International Mobile Subscriber Identity
+IMSVoPS:IMS Voice over PS Session
+IOI:Inter Operator Identifier
+IOPS:Isolated E-UTRAN Operation for Public Safety
+IoT:Internet of Things
+IP:Internet Protocol
+IP-CAN:IP-Connectivity Access Network
+IPsec:IP security
+IPsec:Internet Protocol Security
+IPv4:Internet Protocol version 4
+IPv6:Internet Protocol version 6
+IRA:International Reference Alphabet (ITU T T.50 [13])
+IrDA:Infrared Data Association
+ISC:IP Multimedia Subsystem Service Control
+ISIM:IM Services Identity Module
+ISM:Industrial Scientific and Medical
+ISO:International Standards Organization
+ISR:Idle mode Signalling Reduction
+ITS:Intelligent Transport Systems
+ITS-AID:ITS Application Identifier
+ITUT:International Telecommunication Union Telecommunications Standardization Sector
+IWF:Interworking Function
+I-WLAN:Interworking ?C WLAN
+K:USIM Individual key
+kB:Kilobyte (1000 bytes)
+kbps:Kilobits per second
+Kc:64-bit GSM ciphering key
+KC:Cryptographic key used by the cipher A5
+Kc128:128-bit GSM ciphering key
+KMS:Key Management Service
+KSI:Key Set Identifier
+L1:Layer 1
+L2:Layer 2
+L2:Layer 2 (data link layer)
+L3:Layer 3
+L3:Layer 3 (network layer)
+LAA:Licensed-Assisted Access
+LAA:Licensed-Assisted Access
+LCG:Logical Channel Group
+LCID:Logical channel ID
+LCS:LoCation Services
+L-GW:Local PDN Gateway
+LHN-ID:Local Home Network Identifier
+LI:Language Indication
+LIPA:Local IP Access
+LMU:Location Measurement Unit
+LRF:Location Retrieval Function
+LSA:Localised Service Areas
+LSB:Least Significant Bit
+LSF:Last Segment Flag
+LTE:Long Term Evolution
+LTZ:Local Time Zone, the offset from UT applying in that locality,including any adjustments for summer time, etc.
+LWA:LTE-WLAN Aggregation
+LWAAP:LTE-WLAN Aggregation Adaptation Protocol
+LWIP:LTE-WLAN Radio Level Integration with IPsec Tunnel
+MAC:Medium Access Control
+MAC:Message Authentication Code
+MAC:Media access control
+MAC-A:MAC used for authentication and key agreement
+MAC-I:MAC used for data integrity of signalling messages
+MAC-I:Message Authentication Code for Integrity
+MBMS:Multimedia Broadcast Multicast Service
+Mbps:Megabits per second
+MBR:Maximum Bit Rate
+MBSFN:Multimedia Broadcast multicast service Single Frequency Network
+MCC:Mobile Country Code
+MCCH:Multicast Control Channel
+MCData:Mission Critical Data
+MCE:Multicell coordination entity
+MCG:Master Cell Group
+MCH:Multicast channel
+MCOT:Maximum Channel Occupancy Time
+MCPTT:Mission Critical Push To Talk
+MCS:Modulation and Coding Scheme
+MCS:Mission Critical Services
+MCS:Master control subsystem
+MCVideo:Mission Critical Video
+MDT:Minimization of Drive Tests
+ME:Mobile Equipment
+MexE:Mobile Execution Environment
+MF:Master File
+MGCF:Media Gateway Control Function
+MGV-F:MTK Generation and Validation Function 
+MGW:Media Gateway
+MIB:Master Information Block
+MICO:Mobile Initiated Connection Only 
+MiD:Multi-iDentity
+MIKEY:Multimedia Internet KEYing 
+MIMO:Multiple Input Multiple Output
+MM:Multimedia Message
+MME:Mobility Management Entity
+MMEC:MME Code
+MMI:Man Machine Interface
+MMS:Multimedia Messaging Service
+MMSS:MultiMode System Selection
+MNC:Mobile Network Code
+MNS:Mobile Network Signalling 
+MO:Mobile Originating
+MOCN:Multi-Operator Core Network
+MODE:Indication packet switched/circuit switched mode
+MoU:Memorandum of Understanding (GSM operator joint)
+MPDCCH:MTC Physical Downlink Control Channel
+MRB:MBMS Point to Multipoint Radio Bearer
+MR-DC:Multi-Radio Dual Connectivity
+MRFC:Multimedia Resource Function Controller
+MRFP:Multimedia Resource Function Processor
+M-RNTI:MBMS RNTI
+MRO:Mobility Robustness Optimisation
+MSB:Most Significant Bit
+MSI:MCH Scheduling Information
+MSK:MBMS Service Key
+MT:Mobile Terminating
+MT:Mobile Termination
+MTC:Machine Type Communications
+MTCH:Multicast Traffic Channel
+MTK:MBMS Traffic Key
+M-TMSI:M-Temporary Mobile Subscriber Identity
+MTPL:Max Tx power limit
+MTSI:Multimedia Telephony Service for IMS
+MTU:Maximum Transfer Unit
+MuD:Multi-Device
+MUK:MBMS User Key
+MUST:MultiUser Superposition Transmission
+NE-DC:NR E-UTRA Dual Connectivity with MCG using NR and SCG using E-UTRA Narrowband Physical Broadcast channel
+MWUS:MTC Wake-Up Signal
+N/A:Not Applicable
+NAPT:Network Address (and Port) Translation
+NACC:Network Assisted Cell Change
+NACK:Negative Acknowledgement
+NAI:Network Access Identifier
+NAICS:Network Assisted Interference Cancellation/Suppression
+NAPT:Network Address and Port Translation
+NAS:Non Access Stratum
+NASS:Network Attachment Subsystem
+NAT:Network Address Translation
+NB-IoT:NarrowBand Internet of Things
+NCCE:Narrowband Control Channel Element
+NDI:New data indicator
+NDS:Network Domain Security
+NE-DC:NR E-UTRA Dual Connectivity
+NEV:NEVer
+NGEN-DC:E-UTRA NR Dual Connectivity with E-UTRAN connected to 5GC
+ngKSI:Key Set Identifier in 5G
+NG-RAN:Next Generation Radio Access Network
+NITZ:The feature Network Identity and Timezone
+NP:Number Portability
+NPBCH:Narrowband Physical Broadcast channel
+NPDCCH:Narrowband Physical Downlink Control channel
+NPDSCH:Narrowband Physical Downlink Shared channel
+N-PDU:Network-Protocol Data Unit
+NPI:Numbering Plan Identifier
+NPRACH:Narrowband Physical Random Access channel
+NPRS:Narrowband Positioning Reference Signal
+NPSS:Narrowband Primary Synchronization Signal
+NPUSCH:Narrowband Physical Uplink Shared channel
+NR:NR Radio Access
+NR:New radio
+NRS:Narrowband Reference Signal
+NSI:Network Specific Identifier
+NSSAI:Network Slice Selection Assistance Information
+NSSS:Narrowband Secondary Synchronization Signal
+o:optional
+OCF:Online Charging Function
+OCI:Outgoing Call Information
+OCT:Outgoing Call Timer
+OFDM:Orthogonal Frequency Division Multiplexing
+OLI:Originating Line Information
+OOW:Out of world
+OS:OFDM Symbol
+P2X:Pedestrian-to-Everything
+PBCH:Physical Broadcast Channel
+PBCH:Physical Broadcast Channel
+PBID:Phonebook Identifier
+PCCA:Portable Computer and Communications Association
+PCCH:Paging Control Channel
+PCCPCH:Primary Common Control Physical Channel
+PCell:Primary Cell
+PCFICH:Physical Control Format Indicator Channel
+PCH:Paging channel
+PCI:Precoding control indicator
+PCO:Protocol Configuration Options
+PCRF:Policy and Charging Rules Function
+P-CSCF:Proxy CSCF
+PD:Protocol Discriminator
+PDCCH:Physical Downlink Control Channel
+PDCP:Packet Data Convergence Protocol
+PDG:Packet Data Gateway
+PDN:Packet Data Network
+PDN GW:Packet Data Network Gateway
+PDP:Packet Data Protocol
+PDSCH:Physical Downlink Shared Channel
+PDU:Protocol Data Unit
+PEK:ProSe Encryption Key
+PFI:PC5 QoS Flow Identifier
+PGK:ProSe Group Key
+P-GW:PDN Gateway
+PHICH:Physical Hybrid ARQ Indicator Channel
+PHR:Power Headroom Report
+PICS:Protocol Implementation Conformance Statement 
+PIDF-LO:Presence Information Data Format Location Object
+PIN:Personal Identification Number
+PL:Preferred Languages
+PLMN:Public Land Mobile Network
+PMCH:Physical Multicast Channel 
+PMI:Precoding Matrix Indicator
+PMK:Pairwise Master Key
+PO:Paging Occasion
+posSIB:Positioning SIB
+PQI:PC5 5QI
+PRACH:Physical Random Access Channel
+PRB:Physical Resource Block
+PRG:Precoding Resource Block Group
+P-RNTI :Paging RNTI
+ProSe:Proximity based Services
+ProSe :Proximity Services
+PRS:Positioning Reference Symbol
+PS:Public Safety (in context of sidelink),Packet Switched (otherwise)
+PS:Packet switched
+PS_DO:PIN Status Data Object 
+PSAP:Public Safety Answering Point
+PSBCH:Physical Sidelink Broadcast Channel
+PSCCH:Physical Sidelink Control Channel
+PSCell:Primary Secondary Cell
+PSDCH:Physical Sidelink Discovery Channel
+PSDK:Public Safety Discovery Key
+PSI:Public Service Identity
+PSID:Provider Service Identifier
+PSK:Pre-Shared Key
+PSM:Power Saving Mode
+PSSCH:Physical Sidelink Shared Channel
+PSTN:Public Switched Telephone Network
+PTAG:Primary Timing Advance Group
+PTI:Precoding Type Indicator
+PTI:Procedure Transaction Identity
+PTI:Precoding Type Indicator
+PTK:ProSe Traffic Key
+PTT:Push to Talk
+PUCCH:Physical Uplink Control Channel
+PUR:Preconfigured Uplink Resource
+PUSCH:Physical Uplink Shared Channel 
+QAM:Quadrature Amplitude Modulation
+QCI:QoS Class Identifier
+QoE:Quality of Experience
+QoS:Quality of Service
+QPP:Quadratic Permutation Polynomial
+QPSK:Quadrature Phase Shift Keying
+R:Reserved
+RACH:Random Access CHannel
+RACH:Random access channel
+RAI:Release Assistance Indication
+RAND:RANDom challenge
+RANDMS:Random challenge stored in the USIM
+RAR:Random access response
+RA-RNTI:Random Access RNTI
+RAT:Radio Access Technology
+RB:Radio Bearer
+RB:Resource block
+RBG:Resource Block Group
+RBS:Remote business support system
+RCLWI:RAN Controlled LTE-WLAN Integration
+RDI:Restricted Digital Information
+RE:Resource Element 
+REG:Resource-Element Group
+RES:RESponse
+RES:User response
+ReTx:Retransmission
+RFC:Request For Comments
+RFU:Reserved for Future Use
+RI:Rank Indication
+RIV:Resource indicator value
+RLC:Radio Link Control
+RLOS:Restricted Local Operator Services
+RLP:Radio Link Protocol
+RM:Registration manager
+RMTC:RSSI Measurement Timing Configuration
+RN:Relay Node
+RNA:RAN-based Notification Area
+RNAU:RAN-based Notification Area Update
+RNTI:Radio Network Temporary Identifier
+ROHC:RObust Header Compression
+R-PDCCH :Relay Physical Downlink Control Channel
+RPF:Repetition Factor
+RPLMN:Registered Public Land Mobile Network
+RRC:Radio Resource Control
+RS:Reference Signal
+RSCP:Received Signal Code Power
+RSRP:Reference Signal Received Power
+RSRQ:Reference Signal Received Quality
+RSS:Resynchronization Signal
+RSSI:Received Signal Strength Indicator
+RST:Reset
+RSTD:Reference Signal Time Difference
+RSU:Road Side Unit
+RTCP:Real-time Transport Control Protocol
+RTP:Real-time Transport Protocol
+RV:Redundancy version
+S101-AP:S101 Application Protocol
+S1AP:S1 Application Protocol
+SAE:System Architecture Evolution
+SAP:Service Access Point
+SC-FDMA:Single-Carrier Frequency Division Multiple Access
+SPDCCH:Short Physical Downlink Control Channel
+SBAS:Satellite Based Augmentation System
+SBCCH:Sidelink Broadcast Control Channel
+SC:Sidelink Control
+SCCE:Short Control Channel Element
+SCell:Secondary Cell
+SI-RNTI:System Information RNTI
+SCG:Secondary Cell Group
+SCI:Sidelink Control Information
+SC-MRB:Single Cell MRB
+SC-RNTI:Single Cell RNTI
+SCS:Sub carrier spacing
+S-CSCF:Serving CSCF
+SCTP:Stream Control Transmission Protocol
+SDES:Session Description Protocol Security Descriptions for Media Streams
+SDN:Service dialling number
+SDP:Session Description Protocol
+SD-RSRP:Sidelink Discovery Reference Signal Received Power
+SDU:Service Data Unit
+SE:Security Environment
+SEQp:Sequence number for MGV-F stored in the USIM
+SFI:Short EF Identifier
+SFN:System Frame Number
+SGSN:Serving GPRS Support Node
+SI:System Information
+SI:Scheduling information
+SIB:System Information Block
+SIM:Subscriber Identity Module
+SINR:Signal to Interference plus Noise Ratio 
+SIP:Session Initiation Protocol
+SIPTO:Selected IP Traffic Offload
+SIR:Signal-to-Interference Ratio
+SI-RNTI:System Information RNTI
+SL:Sidelink
+SL-BCH:Sidelink Broadcast Channel
+SL-DCH:Sidelink Discovery Channel
+SLF:Subscription Locator Function
+SLRB:Sidelink Radio Bearer carrying ProSe Direct Communication data
+SL-SCH:Sidelink Shared Channel
+SLSS:Sidelink Synchronisation Signal
+SM:Session Management 
+SMC:Security Mode Control
+SN:Serving Network
+SN:Serial Number
+SNR:Signal-to-noise ratio
+SO:Segment Offset
+SoLSA:Support of Localised Service Areas
+SOR-CMCI:Steering of roaming connected mode control information
+SPDCCH:Short Physical Downlink Control channel
+SPS:Semi-Persistent Scheduling
+SPS C-RNTI:Semi-Persistent Scheduling C-RNTI
+SPT:Short Processing Time
+SPUCCH:Short Physical Uplink Control channel
+SPUCCH:Short Physical Uplink Control Channel
+SQN:SeQuence Number
+SR:Scheduling Request
+SR:Silent redial
+SRB:Signalling Radio Bearer
+SRB:Signalling Radio Bearer carrying control plane data
+SREG:Short Resource-Element Group
+SRES:Signed RESponse calculated by a USIM
+SRS:Sounding Reference Signal
+SRS:Sounding Reference Signal
+S-RSRP:Sidelink Reference Signal Received Power
+SSAC:Service Specific Access Control
+SSB:Synchronization signal block
+SSTD:SFN and Subframe Timing Difference
+STAG:Secondary Timing Advance Group
+sTAG:Secondary Timing Advance Group
+STCH:Sidelink Traffic Channel
+S-TMSI:SAE Temporary Mobile Station Identifier
+S-TMSI:S-Temporary Mobile Subscriber Identity
+STTI:Short TTI
+STUN:Session Traversal Utilities for NAT
+SUCI:Subscription Concealed Identifier 
+SUL:Supplementary uplink
+SUPI:Subscription Permanent Identifier
+SW:Status Word 
+TA:Time alignment
+TA:Tracking Area
+TA:Terminal Adaptor, e.g. a GSM data card (equal to DCE; Data Circuit terminating Equipment)
+TA:Terminal acceptance
+TAC:Type Approval Code
+TAC:Tracking Area Code
+TAG:Timing Advance Group
+TAI:Tracking Area Identity
+TB:Transport block
+TCP:Transmission Control Protocol
+TDD:Time Division Duplexing
+TDM:Time Division Multiplexing
+TE:Terminal Equipment, e.g. a computer (equal to DTE; Data Terminal Equipment)
+TFT:Traffic Flow Template
+TI:Transaction Identifier
+TIA:Telecommunications Industry Association
+TIN:Temporary Identity used in Next update
+TLS:Transport Layer Security
+TLV:Tag Length Value
+TM:Transparent Mode
+TMD:TM Data
+TMGI:Temporary Mobile Group Identity
+TPC:Transition pilot channel
+TPC-PUCCH-RNTI:Transmit Power Control-Physical Uplink Control Channel-RNTI
+TPC-RNTI:Transmit Power Control RNTI
+TPMI:Transmitted Precoding Matrix Indicator
+T-RPT:Time Resource Pattern of Transmission
+TTI:Transmission Time Interval 
+TTT:Time To Trigger
+TURN:Traversal Using Relay NAT
+TV:Television
+TX Diversity :Transmit Diversity
+UA:User Agent
+UAC:User Agent Client
+UAC:Unified Access Control
+UAS:User Agent Server
+UCI:Uplink Control Information
+UCS2:Universal Character Set 2
+UDC:Uplink Data Compression
+UDI:Unrestricted Digital Information 
+UDP:User Datagram Protocol
+UDT:User Data Transfer
+UDVM:Universal Decompressor Virtual Machine
+UE:User Equipment
+UICC:Universal Integrated Circuit Card
+UL:Uplink
+UL-SCH: Uplink Shared channel
+UM:Unacknowledged Mode
+X-MAC :Computed MAC-I
+UMD:UM Data
+UP:User Plane
+UP-EDT:User Plane EDT
+URI:Uniform Resource Identifier
+URL:Uniform Resource Locator
+URN:Uniform Resource Name
+URSP:UE Route Selection Policy
+USAT:Universal Subscriber Identity Module Application Toolkit
+USAT:USIM Application Toolkit
+USD:User Service Description
+USIM:Universal Subscriber Identity Module
+UT:Universal Time
+UTC:Coordinated Universal Time
+UTRA:Universal Terrestrial Radio Access
+UTRAN:Universal Terrestrial Radio Access Network
+V2I:Vehicle-to-Infrastructure
+V2N:Vehicle-to-Network
+V2P:Vehicle-to-Pedestrian
+V2V:Vehicle-to-Vehicle
+V2X:Vehicle-to-Everything
+VBS:Voice Broadcast Service
+VGCS:Voice Group Call Service
+VLR:Visitor Location Register
+VoLTE:Voice over Long Term Evolution
+VPLMN:Visited PLMN
+VRB:Virtual Resource Block
+WLAN:Wireless Local Area Network
+WSID:WLAN Specific Identifier
+WT:WLAN Termination
+WUS:Wake-up Signal
+x:prohibited
+xDSL:Digital Subscriber Line (all types)
+XMAC:expected MAC
+XML:eXtensible Markup Language
+XRES:Expected user RESponse
+P-CSCF:Proxy-CSCF
+R-UIM:Removable User Identity Module
+S-CSCF:Serving-CSCF
+SA:Security Association
+SEG:Security Gateway
+SD-AV:SIP Digest Authentication Vector
+TNA:Trusted Node Authentication
+SR:Scheduling Request
+SRS:Sounding Reference Symbol
+UCI:Uplink Control Information
+UE:User Equipment 
+UL-SCH:Uplink Shared Channel
+ACL:Access Control List
+BBF:Broadband Forum
+CCO:Cell Change Order
+CDMA:Code Division Multiple Access
+CID:Cell-ID (positioning method)
+ECGI:E-UTRAN Cell Global Identifier
+E-CID:Enhanced Cell-ID (positioning method)
+eNB:E-UTRAN NodeB
+EP:Elementary Procedure
+EPC:Evolved Packet Core 
+E-RAB:E-UTRAN Radio Access Bearer
+E-SMLC:Evolved Serving Mobile Location Centre
+E-UTRAN:Evolved UTRAN
+GTP:GPRS Tunneling Protocol
+L-GW:Local GateWay
+LHN:Local Home Network
+LHN ID:Local Home Network ID
+LIPA:Local IP Access 
+LPPa:LTE Positioning Protocol Annex
+NNSF:NAS Node Selection Function 
+OTDOA:Observed Time Difference of Arrival
+PWS:Public Warning System
+RIM:RAN Information Management
+S-GW:Serving GateWay
+SN:Sequence Number
+SIPTO@LN:Selected IP Traffic Offload at the Local Network
+TEID:Tunnel Endpoint Identifier
+UE-AMBR:UE-Aggregate Maximum Bitrate
+UTDOA:Uplink Time Difference of Arrival
+A/Gb mode only:Indicates this clause applies only to a GSM system which operates in A/Gb mode. For multi system case this is determined by the current serving radio access network.
+Iu mode only:Indicates this clause applies only to UMTS system. For multi system case this is determined by the current serving radio access network.
+Acceptable Cell:This is a cell that the MS may camp on to make emergency calls. It must satisfy criteria which are defined for A/Gb mode in 3GPP TS 43.022 [35], for Iu mode in 3GPP TS 25.304 [32], and for S1 mode in 3GPP TS 36.304 [43].
+Access Technology:The access technology associated with a PLMN. The MS uses this information to determine what type of radio carrier to search for when attempting to select a specific PLMN (e.g., GSM, UTRAN, GSM COMPACT or E-UTRAN). A PLMN may support more than one access technology.
+Allowable PLMN:In the case of a MS operating in MS operation mode A or B, this is a PLMN which is not in the list of forbidden PLMNs in the MS. In the case of a MS operating in MS operation mode C, this is a PLMN which is not in the list of forbidden PLMNs or in the list of forbidden PLMNs for GPRS service in the MS
+Location Registration LR:An MS which is IMSI attached to non-GPRS services only performs location registration by the Location Updating procedure. A GPRS MS which is IMSI attached to GPRS services or to GPRS and non-GPRS services performs location registration by the Routing Area Update procedure only when in a network of network operation mode I. Both location updating and routing area update procedures are performed independently by the GPRS MS when it is IMSI attached to GPRS and non-GPRS services in a network of network operation mode II (see 3GPP TS 23.060 [27]). An MS which is attached via the E-UTRAN performs location registration by the tracking area update procedure.
+Available PLMN/access technology combination:This is an available PLMN in a specific access technology.
+Camped on a cell:The MS (ME if there is no SIM) has completed the cell selection/reselection process and has chosen a cell from which it plans to receive all available services. Note that the services may be limited, and that the PLMN may not be aware of the existence of the MS (ME) within the chosen cell.
+Country:A country is identified by a single MCC value, with the exception that MCC values 310 through 316 identify a single country (USA) and MCC values 404 through 406 identify a single country (India).
+EAB:Extended Access Barring,see 3GPP TS 22.011 [9].
+Current serving cell:This is the cell on which the MS is camped.
+CTS MS:An MS capable of CTS services is a CTS MS.
+Available PLMN:For GERAN A/Gb mode see 3GPP TS 43.022 [35]. For UTRAN see 3GPP TS 25.304 [32]. For E-UTRAN see 3GPP TS 36.304 [43]. For cdma2000? 1xRTT and cdma2000? HRPD see 3GPP2 C.S0016 [44].
+EHPLMN:Any of the PLMN entries contained in the Equivalent HPLMN list.
+Equivalent HPLMN list:To allow provision for multiple HPLMN codes, PLMN codes that are present within this list shall replace the HPLMN code derived from the IMSI for PLMN selection purposes. This list is stored on the USIM and is known as the EHPLMN list. The EHPLMN list may also contain the HPLMN code derived from the IMSI. If the HPLMN code derived from the IMSI is not present in the EHPLMN list then it shall be treated as a Visited PLMN for PLMN selection purposes.
+GPRS MS:An MS capable of GPRS services is a GPRS MS. 
+High quality signal:The high quality signal limit is used in the PLMN selection procedure. It is defined in the appropriate AS specification
+Home PLMN:This is a PLMN where the MCC and MNC of the PLMN identity match the MCC and MNC of the IMSI. Matching criteria are defined in Annex A.
+In A/Gb mode:Indicates this clause applies only to a GSM system which operates in A/Gb mode. For multi system case this is determined by the current serving radio access network.
+In Iu mode:Indicates this clause applies only to UMTS system. For multi system case this is determined by the current serving radio access network.
+Localised Service Area LSA:A localised service area consists of a cell or a number of cells. The cells constituting a LSA may not necessarily provide contiguous coverage. 
+MS:Mobile Station. The present document makes no distinction between MS and UE.
+SIM:Subscriber Identity Module (see 3GPP TS 21.111 [38]). The present document makes no distinction between SIM and USIM.
+Registered PLMN RPLMN:This is the PLMN on which certain LR outcomes have occurred (see table 1). In a shared network the RPLMN is the PLMN defined by the PLMN identity of the CN operator that has accepted the LR.
+Registration:This is the process of camping on a cell of the PLMN and doing any necessary LRs.
+Registration Area:A registration area is an area in which mobile stations may roam without a need to perform location registration. The registration area corresponds to location area (LA) for performing location updating procedure, to routing area for performing the GPRS attach or routing area update procedures,and to list of tracking areas (TAs) for performing the EPS attach or tracking area update procedure.The PLMN to which a cell belongs (PLMN identity) is given in the system information transmitted on the BCCH (MCC + MNC part of LAI). In a shared network a cell belongs to all PLMNs given in the system information transmitted on the BCCH.
+Selected PLMN:This is the PLMN that has been selected according to subclause 3.1, either manually or automatically.
+Shared Network:An MS considers a cell to be part of a shared network, when multiple PLMN identities are received on the BCCH.  
+Network Type:The network type associated with HPLMN or a PLMN on the PLMN selector (see 3GPP TS 31.102 [40]). The MS uses this information to determine what type of radio carrier to search for when attempting to select a specific PLMN. A PLMN may support more than one network type. 
+SoLSA exclusive access:Cells on which normal camping is allowed only for MS with Localised Service Area (LSA) subscription.
+Suitable Cell:This is a cell on which an MS may camp. It must satisfy criteria which are defined for GERAN A/Gb mode in 3GPP TS 43.022 [35], for UTRAN in 3GPP TS 25.304 [32] and for E-UTRAN in 3GPP TS 36.304 [43]. For 3GPP2 access technologies the criteria are defined in 3GPP2 C.S0011 [45] for cdma2000? 1xRTT and in 3GPP2 C.S0033 [46] for cdma2000? HRPD.
+Steering of Roaming:A technique whereby a roaming UE is encouraged to roam to a preferred roamed-to network by the HPLMN.
+Visited PLMN:This is a PLMN different from the HPLMN (if the EHPLMN list is not present or is empty) or different from an EHPLMN (if the EHPLMN list is present).
+Application Layer connection-less group:An application layer group without group formation in the V2X application layer, e.g., sensor sharing.
+Application Layer ID:An identifier identifying an entity, e.g. a vehicle, a pedestrian, an RSU within the context of a specific V2X application. The format of this identifier is outside the scope of 3GPP.
+Application Layer managed group:An application layer group with group formation and management in the V2X application layer, e.g., platooning, cooperative adaptive cruise control.
+Groupcast mode communication:It refers to V2X communication over PC5 reference point within a group of UEs where any UE in the group can act as transmitting UE and the rest act as receiving UEs. See also TS 38.300 [11] for more information. The group here refers to Application Layer managed group or Application Layer connection-less group.
+Member ID:An identifier uniquely identifying a member in the Application Layer managed group and that is managed by the V2X application layer.
+Mode of communication:Mode of communication to be used by the UE over PC5 reference point i.e. broadcast mode (LTE PC5 and NR PC5), groupcast mode (NR PC5) or unicast mode (NR PC5).
+V2X application:An application using one or more V2X services e.g. an active safety application in a vehicle, using V2X services such as emergency warning and vehicle to vehicle safety and awareness. A V2X application may operate towards a V2X Application Server.
+V2X communication:A communication to support Vehicle-to-Everything (V2X) services leveraging Uu and / or PC5 reference points. V2X services are realized by various types of V2X applications, i.e. Vehicle-to-Vehicle (V2V), Vehicle-to-Pedestrian (V2P), Vehicle-to-Infrastructure (V2I) and Vehicle-to-Network (V2N).
+V2X message:A dedicated messaging type of V2X service, for example ITS messages.
+V2X service:A data service, offered to V2X applications and optionally V2X Application Servers. A V2X service belongs to one V2X service type. It may include message or other data delivery, as defined in TS 22.185 [2] and TS 22.186 [3]. A V2X service can be associated with one or more V2X applications, and a V2X application can be associated with one or more V2X services.
+V2X service type:A type of V2X service, which is identified by e.g. ITS-AID (ITS Application Identifier), PSID (Provider Service Identifier) or AID (Application Identifier).
+RR connection:a RR connection is a dedicated physical circuit switched domain connection used by the two RR or RRC peer entities to support the upper layers' exchange of information flows.
+PS signalling connection: a peer to peer UMTS connection between MS and CN packet domain node.
+GPRS:Packet Services for GSM and UMTS system.
+A/Gb mode only:indicates this section or paragraph applies only to GSM system. For multi system case this is determined by the current serving radio access network.
+Iu mode only:indicates this section or paragraph applies only to UMTS system. For multi system case this is determined by the current serving radio access network.
+S1 mode only:indicates this section or paragraph applies only to Evolved Packet Core (EPC) and E-UTRAN access. For multi system case this is determined by the current serving radio access network.
+In A/Gb mode:Indicates this paragraph applies only to GSM System. For multi system case this is determined by the current serving radio access network.
+In Iu mode:Indicates this paragraph applies only to UMTS System. For multi system case this is determined by the current serving radio access network.
+In S1 mode:Indicates this paragraph applies only to Evolved Packet Core and E-UTRAN access. For multi system case this is determined by the current serving radio access network.
+SIM:Subscriber Identity Module (see 3GPP TS 42.017 [5c]). This specification makes no distinction between SIM and USIM.
+MS:Mobile Station. This specification makes no distinction between MS and UE.
+GSM security context:A GSM security context is established and stored in the MS and the network as a result of a successful execution of a GSM authentication challenge. The GSM security context for the CS domain consists of the GSM ciphering key and the ciphering key sequence number. The GSM security context for the PS domain consists of the GPRS GSM ciphering key and the GPRS ciphering key sequence number.
+UMTS security context:A UMTS security context is established and stored in the MS and the network as a result of a successful execution of a UMTS authentication challenge. The UMTS security context for the CS domain consists of the UMTS ciphering key, the UMTS integrity key, the GSM ciphering key, the ciphering key sequence number and the GSM Kc128 (if an A5 ciphering algorithm that requires a 128-bit ciphering key is in use). The UMTS security context for the PS domain consists of the GPRS UMTS ciphering key, the GPRS UMTS integrity key, the GPRS GSM ciphering key, the GPRS ciphering key sequence number and the GPRS GSM Kc128 (if a GEA ciphering algorithm that requires a 128-bit ciphering key is in use).
+attached for emergency bearer services:An MS is attached for emergency bearer services if it has successfully completed an attach for emergency bearer services or if it has only a PDN connection for emergency bearer services established.
+idle mode:In this mode,the mobile station is not allocated any dedicated channel; it listens to the CCCH and the BCCH;
+group receive mode:(only applicable for mobile stations supporting VGCS listening or VBS listening) In this mode, the mobile station is not allocated a dedicated channel with the network; it listens to the downlink of a voice broadcast channel or voice group call channel allocated to the cell. Occasionally, the mobile station has to listen to the BCCH of the serving cell as defined in 3GPP TS 43.022 [82] and 3GPP TS 45.008 [34];
+dedicated mode:In this mode,the mobile station is allocated at least two dedicated channels, only one of them being a SACCH;
+EAB:Extended Access Barring,see 3GPP TS 22.011 [138]
+group transmit mode:(only applicable for mobile stations supporting VGCS talking) In this mode, one mobile station of a voice group call is allocated two dedicated channels, one of them being a SACCH. These channels can be allocated to one mobile station at a time but to different mobile stations during the voice group call; 
+packet idle mode:(only applicable for mobile stations supporting GPRS) In this mode, mobile station is not allocated any radio resource on a packet data physical channel; it listens to the BCCH and the CCCH, see 3GPP TS 44.060 [76].
+packet transfer mode:(only applicable for mobile stations supporting GPRS) In this mode, the mobile station is allocated radio resource on one or more packet data physical channels for the transfer of LLC PDUs.

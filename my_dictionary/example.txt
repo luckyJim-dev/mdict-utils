@@ -1,25 +1,5635 @@
-3GPP TS 33.501
-<font size=5>3GPP TS 33.501</font>
+NGEN-DC
+<font size=5>NGEN-DC</font>
 <br>
-"Security Architecture and Procedures for 5G System"
+E-UTRA NR Dual Connectivity (i.e. covering both EN-DC and NGEN-DC)
+<br>
+updated by 249850395@qq.com
 </>
-3GPP TS 36.331
-<font size=5>3GPP TS 36.331</font>
+1xRTT CPICH
+<font size=5>1xRTT CPICH</font>
 <br>
-"Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Resource Control (RRC); Protocol specification"
+CDMA2000 1x Radio Transmission Technology Common Pilot Channel
+<br>
+updated by 249850395@qq.com
 </>
-3GPP TS 29.500
-<font size=5>3GPP TS 29.500</font>
+1xRTT AM
+<font size=5>1xRTT AM</font>
 <br>
-"5G System; Technical Realization of Service Based Architecture; Stage 3"
+CDMA2000 1x Radio Transmission Technology Acknowledged Mode
+<br>
+updated by 249850395@qq.com
 </>
-3GPP TS 29.518
-<font size=5>3GPP TS 29.518</font>
+1xx
+<font size=5>1xx</font>
 <br>
-"5G System; Access and Mobility Management Services; Stage 3"
+A status-code in the range 101 through 199, and excluding 100
+<br>
+updated by 249850395@qq.com
 </>
-3GPP TS 23.503
-<font size=5>3GPP TS 23.503</font>
+2xx
+<font size=5>2xx</font>
 <br>
-"Policy and Charging Control Framework for the 5G System "
+A status-code in the range 200 through 299
+<br>
+updated by 249850395@qq.com
+</>
+3GPP
+<font size=5>3GPP</font>
+<br>
+3rd Generation Partnership Project
+<br>
+updated by 249850395@qq.com
+</>
+5GCN
+<font size=5>5GCN</font>
+<br>
+5G Core Network
+<br>
+updated by 249850395@qq.com
+</>
+AAA
+<font size=5>AAA</font>
+<br>
+Authentication Authorisation Accounting
+<br>
+updated by 249850395@qq.com
+</>
+AC
+<font size=5>AC</font>
+<br>
+Access Condition
+<br>
+updated by 249850395@qq.com
+</>
+ACDC
+<font size=5>ACDC</font>
+<br>
+Application specific Congestion control for Data Communication
+<br>
+updated by 249850395@qq.com
+</>
+ACK
+<font size=5>ACK</font>
+<br>
+Acknowledgement
+<br>
+updated by 249850395@qq.com
+</>
+ACL
+<font size=5>ACL</font>
+<br>
+APN Control List
+<br>
+updated by 249850395@qq.com
+</>
+ADF
+<font size=5>ADF</font>
+<br>
+Application Dedicated File
+<br>
+updated by 249850395@qq.com
+</>
+AF
+<font size=5>AF</font>
+<br>
+Application Function
+<br>
+updated by 249850395@qq.com
+</>
+AID
+<font size=5>AID</font>
+<br>
+Application Identifier
+<br>
+updated by 249850395@qq.com
+</>
+AK
+<font size=5>AK</font>
+<br>
+Anonymity key
+<br>
+updated by 249850395@qq.com
+</>
+AKA
+<font size=5>AKA</font>
+<br>
+Authentication and Key Agreement
+<br>
+updated by 249850395@qq.com
+</>
+ALW
+<font size=5>ALW</font>
+<br>
+ALWays
+<br>
+updated by 249850395@qq.com
+</>
+AM
+<font size=5>AM</font>
+<br>
+Acknowledged Mode
+<br>
+updated by 249850395@qq.com
+</>
+AMBR
+<font size=5>AMBR</font>
+<br>
+Aggregate Maximum Bit Rate
+<br>
+updated by 249850395@qq.com
+</>
+AMD
+<font size=5>AMD</font>
+<br>
+AM Data
+<br>
+updated by 249850395@qq.com
+</>
+AMF
+<font size=5>AMF</font>
+<br>
+Authentication Management Field
+<br>
+updated by 249850395@qq.com
+</>
+AoC
+<font size=5>AoC</font>
+<br>
+Advice of Charge
+<br>
+updated by 249850395@qq.com
+</>
+APN
+<font size=5>APN</font>
+<br>
+Access Point Name
+<br>
+updated by 249850395@qq.com
+</>
+APN-AMBR
+<font size=5>APN-AMBR</font>
+<br>
+APN Aggregate Maximum Bit Rate
+<br>
+updated by 249850395@qq.com
+</>
+ARFCN
+<font size=5>ARFCN</font>
+<br>
+Absolute radio frequency channel number
+<br>
+updated by 249850395@qq.com
+</>
+ARP
+<font size=5>ARP</font>
+<br>
+Allocation Retention Priority
+<br>
+updated by 249850395@qq.com
+</>
+ARP
+<font size=5>ARP</font>
+<br>
+Address Resolution Protocol
+<br>
+updated by 249850395@qq.com
+</>
+ARQ
+<font size=5>ARQ</font>
+<br>
+Automatic Repeat reQuest
+<br>
+updated by 249850395@qq.com
+</>
+AS
+<font size=5>AS</font>
+<br>
+Application Server
+<br>
+updated by 249850395@qq.com
+</>
+AS
+<font size=5>AS</font>
+<br>
+Access Stratum
+<br>
+updated by 249850395@qq.com
+</>
+AS layer
+<font size=5>AS layer</font>
+<br>
+Access Stratum layer
+<br>
+updated by 249850395@qq.com
+</>
+ASCI
+<font size=5>ASCI</font>
+<br>
+Advanced Speech Call Items;including VGCS;VBS and eMLPP
+<br>
+updated by 249850395@qq.com
+</>
+ASME
+<font size=5>ASME</font>
+<br>
+Access Security Management Entity
+<br>
+updated by 249850395@qq.com
+</>
+ASN.1
+<font size=5>ASN.1</font>
+<br>
+Abstract Syntax Notation One 
+<br>
+updated by 249850395@qq.com
+</>
+ASN.1
+<font size=5>ASN.1</font>
+<br>
+Abstract Syntax Notation One
+<br>
+updated by 249850395@qq.com
+</>
+AT
+<font size=5>AT</font>
+<br>
+ATtention; this two character abbreviation is always used to start a command line to be sent from TE to TA
+<br>
+updated by 249850395@qq.com
+</>
+AuC
+<font size=5>AuC</font>
+<br>
+Authentication Centre
+<br>
+updated by 249850395@qq.com
+</>
+AUL
+<font size=5>AUL</font>
+<br>
+Autonomous Uplink
+<br>
+updated by 249850395@qq.com
+</>
+AUL-DFI
+<font size=5>AUL-DFI</font>
+<br>
+AUL downlink feedback information
+<br>
+updated by 249850395@qq.com
+</>
+AUL-UCI
+<font size=5>AUL-UCI</font>
+<br>
+AUL uplink control information
+<br>
+updated by 249850395@qq.com
+</>
+AUTN
+<font size=5>AUTN</font>
+<br>
+Authentication TokeN
+<br>
+updated by 249850395@qq.com
+</>
+AV
+<font size=5>AV</font>
+<br>
+Authentication Vector
+<br>
+updated by 249850395@qq.com
+</>
+AVP
+<font size=5>AVP</font>
+<br>
+Attribute-Value Pair
+<br>
+updated by 249850395@qq.com
+</>
+B2BUA
+<font size=5>B2BUA</font>
+<br>
+Back-to-Back User Agent
+<br>
+updated by 249850395@qq.com
+</>
+BCCH
+<font size=5>BCCH</font>
+<br>
+Broadcast Control CHannel
+<br>
+updated by 249850395@qq.com
+</>
+BCD
+<font size=5>BCD</font>
+<br>
+Binary Coded Decimal
+<br>
+updated by 249850395@qq.com
+</>
+BCD
+<font size=5>BCD</font>
+<br>
+Binary Coded Decimal
+<br>
+updated by 249850395@qq.com
+</>
+BCH
+<font size=5>BCH</font>
+<br>
+Broadcast Channel
+<br>
+updated by 249850395@qq.com
+</>
+BCH
+<font size=5>BCH</font>
+<br>
+Broadcast channel
+<br>
+updated by 249850395@qq.com
+</>
+BDN
+<font size=5>BDN</font>
+<br>
+Barred Dialling Number
+<br>
+updated by 249850395@qq.com
+</>
+BER-TLV
+<font size=5>BER-TLV</font>
+<br>
+Basic Encoding Rule - TLV
+<br>
+updated by 249850395@qq.com
+</>
+BGCF
+<font size=5>BGCF</font>
+<br>
+Breakout Gateway Control Function
+<br>
+updated by 249850395@qq.com
+</>
+BLER
+<font size=5>BLER</font>
+<br>
+Block error rate
+<br>
+updated by 249850395@qq.com
+</>
+BPSK
+<font size=5>BPSK</font>
+<br>
+Binary Phase Shift Keying
+<br>
+updated by 249850395@qq.com
+</>
+BRAS
+<font size=5>BRAS</font>
+<br>
+Broadband Remote Access Server
+<br>
+updated by 249850395@qq.com
+</>
+BSR
+<font size=5>BSR</font>
+<br>
+Buffer status report
+<br>
+updated by 249850395@qq.com
+</>
+B-TID
+<font size=5>B-TID</font>
+<br>
+Bootstrapping Transaction Identifier
+<br>
+updated by 249850395@qq.com
+</>
+C
+<font size=5>C</font>
+<br>
+conditional
+<br>
+updated by 249850395@qq.com
+</>
+CA
+<font size=5>CA</font>
+<br>
+Carrier Aggregation
+<br>
+updated by 249850395@qq.com
+</>
+CAG
+<font size=5>CAG</font>
+<br>
+Closed Access Group
+<br>
+updated by 249850395@qq.com
+</>
+CAT
+<font size=5>CAT</font>
+<br>
+Customized Alerting Tone
+<br>
+updated by 249850395@qq.com
+</>
+CCCH
+<font size=5>CCCH</font>
+<br>
+Common Control CHannel
+<br>
+updated by 249850395@qq.com
+</>
+CCE
+<font size=5>CCE</font>
+<br>
+Control Channel Element 
+<br>
+updated by 249850395@qq.com
+</>
+CCE
+<font size=5>CCE</font>
+<br>
+Control Channel Element
+<br>
+updated by 249850395@qq.com
+</>
+CCF
+<font size=5>CCF</font>
+<br>
+Charging Collection Function
+<br>
+updated by 249850395@qq.com
+</>
+CCO
+<font size=5>CCO</font>
+<br>
+Cell Change Order
+<br>
+updated by 249850395@qq.com
+</>
+CCP
+<font size=5>CCP</font>
+<br>
+Capability Configuration Parameter
+<br>
+updated by 249850395@qq.com
+</>
+CDD
+<font size=5>CDD</font>
+<br>
+Cyclic Delay Diversity
+<br>
+updated by 249850395@qq.com
+</>
+CDF
+<font size=5>CDF</font>
+<br>
+Charging Data Function
+<br>
+updated by 249850395@qq.com
+</>
+CDR
+<font size=5>CDR</font>
+<br>
+Charging Data Record
+<br>
+updated by 249850395@qq.com
+</>
+CFI
+<font size=5>CFI</font>
+<br>
+Control Format Indicator
+<br>
+updated by 249850395@qq.com
+</>
+CG
+<font size=5>CG</font>
+<br>
+Cell Group
+<br>
+updated by 249850395@qq.com
+</>
+CID
+<font size=5>CID</font>
+<br>
+Context Identifier
+<br>
+updated by 249850395@qq.com
+</>
+CIF
+<font size=5>CIF</font>
+<br>
+Carrier Indicator Field
+<br>
+updated by 249850395@qq.com
+</>
+CK
+<font size=5>CK</font>
+<br>
+Ciphering Key
+<br>
+updated by 249850395@qq.com
+</>
+CLF
+<font size=5>CLF</font>
+<br>
+Connectivity Session and Repository Location Function
+<br>
+updated by 249850395@qq.com
+</>
+CLI
+<font size=5>CLI</font>
+<br>
+Calling Line Identifier
+<br>
+updated by 249850395@qq.com
+</>
+CMAS
+<font size=5>CMAS</font>
+<br>
+Commercial Mobile Alert Service
+<br>
+updated by 249850395@qq.com
+</>
+CN
+<font size=5>CN</font>
+<br>
+Core Network
+<br>
+updated by 249850395@qq.com
+</>
+CNL
+<font size=5>CNL</font>
+<br>
+Co-operative Network List
+<br>
+updated by 249850395@qq.com
+</>
+CoMP
+<font size=5>CoMP</font>
+<br>
+Coordinated Multi-Point
+<br>
+updated by 249850395@qq.com
+</>
+COT
+<font size=5>COT</font>
+<br>
+Channel Occupancy Time
+<br>
+updated by 249850395@qq.com
+</>
+CP
+<font size=5>CP</font>
+<br>
+Cyclic Prefix
+<br>
+updated by 249850395@qq.com
+</>
+CPBCCH
+<font size=5>CPBCCH</font>
+<br>
+COMPACT Packet BCCH
+<br>
+updated by 249850395@qq.com
+</>
+CPC
+<font size=5>CPC</font>
+<br>
+Calling Party's Category
+<br>
+updated by 249850395@qq.com
+</>
+CQI
+<font size=5>CQI</font>
+<br>
+Channel Quality Indicator
+<br>
+updated by 249850395@qq.com
+</>
+CQI
+<font size=5>CQI</font>
+<br>
+Channel Quality Indicator
+<br>
+updated by 249850395@qq.com
+</>
+CR
+<font size=5>CR</font>
+<br>
+Cell register
+<br>
+updated by 249850395@qq.com
+</>
+CRC
+<font size=5>CRC</font>
+<br>
+Cyclic Redundancy Check 
+<br>
+updated by 249850395@qq.com
+</>
+CRC
+<font size=5>CRC</font>
+<br>
+Cyclic Redundancy Check
+<br>
+updated by 249850395@qq.com
+</>
+CRI
+<font size=5>CRI</font>
+<br>
+CSI-RS Resource Indicator
+<br>
+updated by 249850395@qq.com
+</>
+C-RNTI
+<font size=5>C-RNTI</font>
+<br>
+Cell radio network temporary identities
+<br>
+updated by 249850395@qq.com
+</>
+CRS
+<font size=5>CRS</font>
+<br>
+Cell-specific Reference Signal
+<br>
+updated by 249850395@qq.com
+</>
+CS
+<font size=5>CS</font>
+<br>
+Circuit switched
+<br>
+updated by 249850395@qq.com
+</>
+CSCF
+<font size=5>CSCF</font>
+<br>
+Call Session Control Function
+<br>
+updated by 249850395@qq.com
+</>
+CSFB
+<font size=5>CSFB</font>
+<br>
+CS fallback
+<br>
+updated by 249850395@qq.com
+</>
+CSG
+<font size=5>CSG</font>
+<br>
+Closed Subscriber Group
+<br>
+updated by 249850395@qq.com
+</>
+CSI
+<font size=5>CSI</font>
+<br>
+Channel State Information
+<br>
+updated by 249850395@qq.com
+</>
+CSI-RS
+<font size=5>CSI-RS</font>
+<br>
+Channel state information reference signal
+<br>
+updated by 249850395@qq.com
+</>
+CTS
+<font size=5>CTS</font>
+<br>
+Cordless Telephony System
+<br>
+updated by 249850395@qq.com
+</>
+DAI
+<font size=5>DAI</font>
+<br>
+Downlink Assignment Index
+<br>
+updated by 249850395@qq.com
+</>
+DC
+<font size=5>DC</font>
+<br>
+Dual carrier
+<br>
+updated by 249850395@qq.com
+</>
+DCCH
+<font size=5>DCCH</font>
+<br>
+Dedicated Control CHannel
+<br>
+updated by 249850395@qq.com
+</>
+DCI
+<font size=5>DCI</font>
+<br>
+Downlink Control Information
+<br>
+updated by 249850395@qq.com
+</>
+DCK
+<font size=5>DCK</font>
+<br>
+Depersonalisation Control Keys
+<br>
+updated by 249850395@qq.com
+</>
+DF
+<font size=5>DF</font>
+<br>
+Dedicated File
+<br>
+updated by 249850395@qq.com
+</>
+DHCP
+<font size=5>DHCP</font>
+<br>
+Dynamic Host Configuration Protocol
+<br>
+updated by 249850395@qq.com
+</>
+DL
+<font size=5>DL</font>
+<br>
+Downlink
+<br>
+updated by 249850395@qq.com
+</>
+DL-SCH
+<font size=5>DL-SCH</font>
+<br>
+Downlink Shared Channel
+<br>
+updated by 249850395@qq.com
+</>
+EPDCCH
+<font size=5>EPDCCH</font>
+<br>
+Enhanced Physical Downlink Control channel
+<br>
+updated by 249850395@qq.com
+</>
+ENDC
+<font size=5>ENDC</font>
+<br>
+E-UTRA NR Dual Connectivity with MCG using E-UTRA and SCG using NR
+<br>
+updated by 249850395@qq.com
+</>
+DM-RS
+<font size=5>DM-RS</font>
+<br>
+Demodulation Reference Signal
+<br>
+updated by 249850395@qq.com
+</>
+DNS
+<font size=5>DNS</font>
+<br>
+Domain Name System
+<br>
+updated by 249850395@qq.com
+</>
+DO
+<font size=5>DO</font>
+<br>
+Data Object 
+<br>
+updated by 249850395@qq.com
+</>
+DOCSIS
+<font size=5>DOCSIS</font>
+<br>
+Data Over Cable Service Interface Specification
+<br>
+updated by 249850395@qq.com
+</>
+DRB
+<font size=5>DRB</font>
+<br>
+Data Radio Bearer carrying user plane data
+<br>
+updated by 249850395@qq.com
+</>
+DST
+<font size=5>DST</font>
+<br>
+Daylight Saving Time. Adjustment for summer time.
+<br>
+updated by 249850395@qq.com
+</>
+DTD
+<font size=5>DTD</font>
+<br>
+Document Type Definition
+<br>
+updated by 249850395@qq.com
+</>
+DTMF
+<font size=5>DTMF</font>
+<br>
+Dual Tone Multi Frequency
+<br>
+updated by 249850395@qq.com
+</>
+DTX
+<font size=5>DTX</font>
+<br>
+Discontinuous Transmission
+<br>
+updated by 249850395@qq.com
+</>
+DTX
+<font size=5>DTX</font>
+<br>
+Discontinuous Transmission
+<br>
+updated by 249850395@qq.com
+</>
+DUCK
+<font size=5>DUCK</font>
+<br>
+Discovery User Confidentiality Key
+<br>
+updated by 249850395@qq.com
+</>
+DUIK
+<font size=5>DUIK</font>
+<br>
+Discovery User Integrity Key
+<br>
+updated by 249850395@qq.com
+</>
+DUSK
+<font size=5>DUSK</font>
+<br>
+Discovery User Scrambling Key
+<br>
+updated by 249850395@qq.com
+</>
+eNB
+<font size=5>eNB</font>
+<br>
+E-UTRAN Node B
+<br>
+updated by 249850395@qq.com
+</>
+e2ae-security
+<font size=5>e2ae-security</font>
+<br>
+End-to-access edge security 
+<br>
+updated by 249850395@qq.com
+</>
+EAB
+<font size=5>EAB</font>
+<br>
+Extended Access Barring
+<br>
+updated by 249850395@qq.com
+</>
+EARFCN
+<font size=5>EARFCN</font>
+<br>
+Evolved Absolute Radio Frequency Channel Number
+<br>
+updated by 249850395@qq.com
+</>
+EATF
+<font size=5>EATF</font>
+<br>
+Emergency Access Transfer Function
+<br>
+updated by 249850395@qq.com
+</>
+EC
+<font size=5>EC</font>
+<br>
+Emergency Centre
+<br>
+updated by 249850395@qq.com
+</>
+ECCE
+<font size=5>ECCE</font>
+<br>
+Enhanced Control Channel Element
+<br>
+updated by 249850395@qq.com
+</>
+ECF
+<font size=5>ECF</font>
+<br>
+Event Charging Function
+<br>
+updated by 249850395@qq.com
+</>
+EC-GSM-IoT
+<font size=5>EC-GSM-IoT</font>
+<br>
+Extended coverage in GSM for IoT
+<br>
+updated by 249850395@qq.com
+</>
+ECM
+<font size=5>ECM</font>
+<br>
+EPS Connection Management
+<br>
+updated by 249850395@qq.com
+</>
+E-CSCF
+<font size=5>E-CSCF</font>
+<br>
+Emergency CSCF
+<br>
+updated by 249850395@qq.com
+</>
+eDRX
+<font size=5>eDRX</font>
+<br>
+Extended Discontinuous Reception
+<br>
+updated by 249850395@qq.com
+</>
+EDT
+<font size=5>EDT</font>
+<br>
+Early Data Transmission
+<br>
+updated by 249850395@qq.com
+</>
+EPDCCH
+<font size=5>EPDCCH</font>
+<br>
+Enhanced Physical Downlink Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+EF
+<font size=5>EF</font>
+<br>
+Elementary File
+<br>
+updated by 249850395@qq.com
+</>
+eKSI
+<font size=5>eKSI</font>
+<br>
+Key Set Identifier for E-UTRAN
+<br>
+updated by 249850395@qq.com
+</>
+eMLPP
+<font size=5>eMLPP</font>
+<br>
+Enhanced Multi-Level Precedence and Pre-emption Service
+<br>
+updated by 249850395@qq.com
+</>
+EMM
+<font size=5>EMM</font>
+<br>
+EPS Mobility Management
+<br>
+updated by 249850395@qq.com
+</>
+ENB
+<font size=5>ENB</font>
+<br>
+Evolved Node B
+<br>
+updated by 249850395@qq.com
+</>
+EN-DC
+<font size=5>EN-DC</font>
+<br>
+E-UTRA NR Dual Connectivity with E-UTRAN connected to EPC
+<br>
+updated by 249850395@qq.com
+</>
+eNode-B
+<font size=5>eNode-B</font>
+<br>
+Evolved Node B
+<br>
+updated by 249850395@qq.com
+</>
+EPC
+<font size=5>EPC</font>
+<br>
+Evolved Packet Core Network
+<br>
+updated by 249850395@qq.com
+</>
+EPDCCH
+<font size=5>EPDCCH</font>
+<br>
+Enhanced Physical Downlink Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+ePDG
+<font size=5>ePDG</font>
+<br>
+Evolved Packet Data Gateway
+<br>
+updated by 249850395@qq.com
+</>
+EPRE
+<font size=5>EPRE</font>
+<br>
+Energy Per Resource Element 
+<br>
+updated by 249850395@qq.com
+</>
+EPS
+<font size=5>EPS</font>
+<br>
+Evolved Packet System
+<br>
+updated by 249850395@qq.com
+</>
+EREG
+<font size=5>EREG</font>
+<br>
+Enhanced Resource-Element Group
+<br>
+updated by 249850395@qq.com
+</>
+ESM
+<font size=5>ESM</font>
+<br>
+EPS Session Management
+<br>
+updated by 249850395@qq.com
+</>
+E-SMLC
+<font size=5>E-SMLC</font>
+<br>
+Enhanced Serving Mobile Location Centre
+<br>
+updated by 249850395@qq.com
+</>
+ESP
+<font size=5>ESP</font>
+<br>
+Encapsulating Security Payload
+<br>
+updated by 249850395@qq.com
+</>
+ETSI
+<font size=5>ETSI</font>
+<br>
+European Telecommunications Standards Institute
+<br>
+updated by 249850395@qq.com
+</>
+ETWS
+<font size=5>ETWS</font>
+<br>
+Earthquake and Tsunami Warning System
+<br>
+updated by 249850395@qq.com
+</>
+E-UTRA
+<font size=5>E-UTRA</font>
+<br>
+Evolved universal terrestrial radio access
+<br>
+updated by 249850395@qq.com
+</>
+E-UTRA/5GC
+<font size=5>E-UTRA/5GC</font>
+<br>
+E-UTRA connected to 5GC
+<br>
+updated by 249850395@qq.com
+</>
+E-UTRA/EPC
+<font size=5>E-UTRA/EPC</font>
+<br>
+E-UTRA connected to EPC
+<br>
+updated by 249850395@qq.com
+</>
+E-UTRAN
+<font size=5>E-UTRAN</font>
+<br>
+Evolved Universal Terrestrial Radio Access Network
+<br>
+updated by 249850395@qq.com
+</>
+E-UTRAN 
+<font size=5>E-UTRAN </font>
+<br>
+Evolved UTRAN
+<br>
+updated by 249850395@qq.com
+</>
+FMS
+<font size=5>FMS</font>
+<br>
+First missing PDCP SN
+<br>
+updated by 249850395@qq.com
+</>
+EVPF
+<font size=5>EVPF</font>
+<br>
+Enhanced Validity Period Format
+<br>
+updated by 249850395@qq.com
+</>
+FAP
+<font size=5>FAP</font>
+<br>
+cdma2000? 1x Femtocell Access Point
+<br>
+updated by 249850395@qq.com
+</>
+FCP
+<font size=5>FCP</font>
+<br>
+File Control Parameters
+<br>
+updated by 249850395@qq.com
+</>
+FDD
+<font size=5>FDD</font>
+<br>
+Frequency Division Duplex
+<br>
+updated by 249850395@qq.com
+</>
+FFS
+<font size=5>FFS</font>
+<br>
+For Further Study
+<br>
+updated by 249850395@qq.com
+</>
+FI
+<font size=5>FI</font>
+<br>
+Framing Info
+<br>
+updated by 249850395@qq.com
+</>
+FQDN
+<font size=5>FQDN</font>
+<br>
+Full Qualified Domain Name
+<br>
+updated by 249850395@qq.com
+</>
+FTM
+<font size=5>FTM</font>
+<br>
+Frame Tunnelling Mode (refer 3GPP TS 27.001 [41] and 3GPP TS 29.007 [42])
+<br>
+updated by 249850395@qq.com
+</>
+GBR
+<font size=5>GBR</font>
+<br>
+Guaranteed Bit Rate
+<br>
+updated by 249850395@qq.com
+</>
+GCI
+<font size=5>GCI</font>
+<br>
+Global Cable Identifier
+<br>
+updated by 249850395@qq.com
+</>
+GCID
+<font size=5>GCID</font>
+<br>
+GPRS Charging Identifier 
+<br>
+updated by 249850395@qq.com
+</>
+GERAN
+<font size=5>GERAN</font>
+<br>
+GSM/EDGE Radio Access Network
+<br>
+updated by 249850395@qq.com
+</>
+GGSN
+<font size=5>GGSN</font>
+<br>
+Gateway GPRS Support Node
+<br>
+updated by 249850395@qq.com
+</>
+GIBA
+<font size=5>GIBA</font>
+<br>
+GPRS-IMS-Bundled Authentication
+<br>
+updated by 249850395@qq.com
+</>
+GLI
+<font size=5>GLI</font>
+<br>
+Global Line Identifier
+<br>
+updated by 249850395@qq.com
+</>
+GMM
+<font size=5>GMM</font>
+<br>
+GPRS Mobility Management
+<br>
+updated by 249850395@qq.com
+</>
+gNB
+<font size=5>gNB</font>
+<br>
+gNodeB
+<br>
+updated by 249850395@qq.com
+</>
+GNSS
+<font size=5>GNSS</font>
+<br>
+Global Navigation Satellite System
+<br>
+updated by 249850395@qq.com
+</>
+GNSS
+<font size=5>GNSS</font>
+<br>
+Global Navigation Satellite System
+<br>
+updated by 249850395@qq.com
+</>
+GPRS
+<font size=5>GPRS</font>
+<br>
+General Packet Radio Service
+<br>
+updated by 249850395@qq.com
+</>
+G-RNTI
+<font size=5>G-RNTI</font>
+<br>
+Group RNTI
+<br>
+updated by 249850395@qq.com
+</>
+GRUU
+<font size=5>GRUU</font>
+<br>
+Globally Routable User agent URI
+<br>
+updated by 249850395@qq.com
+</>
+GSM
+<font size=5>GSM</font>
+<br>
+Global System for Mobile Communications
+<br>
+updated by 249850395@qq.com
+</>
+GSM
+<font size=5>GSM</font>
+<br>
+Global System for Mobile communication
+<br>
+updated by 249850395@qq.com
+</>
+GUMMEI
+<font size=5>GUMMEI</font>
+<br>
+Globally Unique MME Identifier
+<br>
+updated by 249850395@qq.com
+</>
+GUTI
+<font size=5>GUTI</font>
+<br>
+Globally Unique Temporary Identifier
+<br>
+updated by 249850395@qq.com
+</>
+GWUS
+<font size=5>GWUS</font>
+<br>
+Group Wake Up Signal
+<br>
+updated by 249850395@qq.com
+</>
+HARQ
+<font size=5>HARQ</font>
+<br>
+Hybrid Automatic Repeat Request
+<br>
+updated by 249850395@qq.com
+</>
+HARQ
+<font size=5>HARQ</font>
+<br>
+Hybrid automatic repeat request
+<br>
+updated by 249850395@qq.com
+</>
+HDR
+<font size=5>HDR</font>
+<br>
+High data rate
+<br>
+updated by 249850395@qq.com
+</>
+HE
+<font size=5>HE</font>
+<br>
+Home Environment
+<br>
+updated by 249850395@qq.com
+</>
+HeNB
+<font size=5>HeNB</font>
+<br>
+Home eNode B
+<br>
+updated by 249850395@qq.com
+</>
+HFN
+<font size=5>HFN</font>
+<br>
+Hyper Frame Number
+<br>
+updated by 249850395@qq.com
+</>
+HI
+<font size=5>HI</font>
+<br>
+HARQ indicator
+<br>
+updated by 249850395@qq.com
+</>
+HN
+<font size=5>HN</font>
+<br>
+Home Network
+<br>
+updated by 249850395@qq.com
+</>
+HNB
+<font size=5>HNB</font>
+<br>
+Home NodeB
+<br>
+updated by 249850395@qq.com
+</>
+HPLMN
+<font size=5>HPLMN</font>
+<br>
+Home Public Land Mobile Network
+<br>
+updated by 249850395@qq.com
+</>
+HRPD
+<font size=5>HRPD</font>
+<br>
+CDMA2000 High Rate Packet Data
+<br>
+updated by 249850395@qq.com
+</>
+HSCSD
+<font size=5>HSCSD</font>
+<br>
+High Speed Circuit Switched Data
+<br>
+updated by 249850395@qq.com
+</>
+HSDN
+<font size=5>HSDN</font>
+<br>
+High Speed Dedicated Network
+<br>
+updated by 249850395@qq.com
+</>
+H-SFN
+<font size=5>H-SFN</font>
+<br>
+Hyper SFN
+<br>
+updated by 249850395@qq.com
+</>
+HSS
+<font size=5>HSS</font>
+<br>
+Home Subscriber Server
+<br>
+updated by 249850395@qq.com
+</>
+IAB
+<font size=5>IAB</font>
+<br>
+Integrated Access and Backhaul
+<br>
+updated by 249850395@qq.com
+</>
+IAB-DU
+<font size=5>IAB-DU</font>
+<br>
+IAB-node DU
+<br>
+updated by 249850395@qq.com
+</>
+IAB-MT
+<font size=5>IAB-MT</font>
+<br>
+IAB Mobile Termination
+<br>
+updated by 249850395@qq.com
+</>
+IARI
+<font size=5>IARI</font>
+<br>
+IMS Application Reference Identifier
+<br>
+updated by 249850395@qq.com
+</>
+IBCF
+<font size=5>IBCF</font>
+<br>
+Interconnection Border Control Function
+<br>
+updated by 249850395@qq.com
+</>
+ICC
+<font size=5>ICC</font>
+<br>
+Integrated Circuit Card
+<br>
+updated by 249850395@qq.com
+</>
+ICE
+<font size=5>ICE</font>
+<br>
+Interactive Connectivity Establishment
+<br>
+updated by 249850395@qq.com
+</>
+ICE
+<font size=5>ICE</font>
+<br>
+In Case of Emergency
+<br>
+updated by 249850395@qq.com
+</>
+ICI
+<font size=5>ICI</font>
+<br>
+Incoming Call Information
+<br>
+updated by 249850395@qq.com
+</>
+ICID
+<font size=5>ICID</font>
+<br>
+IM CN subsystem Charging Identifier
+<br>
+updated by 249850395@qq.com
+</>
+ICS
+<font size=5>ICS</font>
+<br>
+Implementation Conformance Statement
+<br>
+updated by 249850395@qq.com
+</>
+I-CSCF
+<font size=5>I-CSCF</font>
+<br>
+Interrogating CSCF
+<br>
+updated by 249850395@qq.com
+</>
+ICSI
+<font size=5>ICSI</font>
+<br>
+IMS Communication Service Identifier
+<br>
+updated by 249850395@qq.com
+</>
+ICT
+<font size=5>ICT</font>
+<br>
+Incoming Call Timer
+<br>
+updated by 249850395@qq.com
+</>
+ID
+<font size=5>ID</font>
+<br>
+Identifier
+<br>
+updated by 249850395@qq.com
+</>
+IDC
+<font size=5>IDC</font>
+<br>
+In-Device Coexistence
+<br>
+updated by 249850395@qq.com
+</>
+Idi
+<font size=5>Idi</font>
+<br>
+Identity of the initiator
+<br>
+updated by 249850395@qq.com
+</>
+Idr
+<font size=5>Idr</font>
+<br>
+Identity of the responder
+<br>
+updated by 249850395@qq.com
+</>
+IE
+<font size=5>IE</font>
+<br>
+Information element
+<br>
+updated by 249850395@qq.com
+</>
+IEI
+<font size=5>IEI</font>
+<br>
+Information Element Identifier
+<br>
+updated by 249850395@qq.com
+</>
+IETF 
+<font size=5>IETF </font>
+<br>
+Internet Engineering Task Force
+<br>
+updated by 249850395@qq.com
+</>
+IK
+<font size=5>IK</font>
+<br>
+Integrity Key
+<br>
+updated by 249850395@qq.com
+</>
+IKE
+<font size=5>IKE</font>
+<br>
+Internet Key Exchange
+<br>
+updated by 249850395@qq.com
+</>
+IM
+<font size=5>IM</font>
+<br>
+IP Multimedia
+<br>
+updated by 249850395@qq.com
+</>
+IMC
+<font size=5>IMC</font>
+<br>
+IMS Credentials
+<br>
+updated by 249850395@qq.com
+</>
+IMEI
+<font size=5>IMEI</font>
+<br>
+International Mobile Equipment Identity
+<br>
+updated by 249850395@qq.com
+</>
+IMPI
+<font size=5>IMPI</font>
+<br>
+IM Private Identity
+<br>
+updated by 249850395@qq.com
+</>
+IMPU
+<font size=5>IMPU</font>
+<br>
+IM Public Identity
+<br>
+updated by 249850395@qq.com
+</>
+IMS
+<font size=5>IMS</font>
+<br>
+IP Multimedia core network Subsystem
+<br>
+updated by 249850395@qq.com
+</>
+IMS
+<font size=5>IMS</font>
+<br>
+IP Multimedia Core Network Subsystem 
+<br>
+updated by 249850395@qq.com
+</>
+IMS-ALG
+<font size=5>IMS-ALG</font>
+<br>
+IMS Application Level Gateway 
+<br>
+updated by 249850395@qq.com
+</>
+IMSI
+<font size=5>IMSI</font>
+<br>
+International Mobile Subscriber Identity
+<br>
+updated by 249850395@qq.com
+</>
+IMSVoPS
+<font size=5>IMSVoPS</font>
+<br>
+IMS Voice over PS Session
+<br>
+updated by 249850395@qq.com
+</>
+IOI
+<font size=5>IOI</font>
+<br>
+Inter Operator Identifier
+<br>
+updated by 249850395@qq.com
+</>
+IOPS
+<font size=5>IOPS</font>
+<br>
+Isolated E-UTRAN Operation for Public Safety
+<br>
+updated by 249850395@qq.com
+</>
+IoT
+<font size=5>IoT</font>
+<br>
+Internet of Things
+<br>
+updated by 249850395@qq.com
+</>
+IP
+<font size=5>IP</font>
+<br>
+Internet Protocol
+<br>
+updated by 249850395@qq.com
+</>
+IP-CAN
+<font size=5>IP-CAN</font>
+<br>
+IP-Connectivity Access Network
+<br>
+updated by 249850395@qq.com
+</>
+IPsec
+<font size=5>IPsec</font>
+<br>
+IP security
+<br>
+updated by 249850395@qq.com
+</>
+IPsec
+<font size=5>IPsec</font>
+<br>
+Internet Protocol Security
+<br>
+updated by 249850395@qq.com
+</>
+IPv4
+<font size=5>IPv4</font>
+<br>
+Internet Protocol version 4
+<br>
+updated by 249850395@qq.com
+</>
+IPv6
+<font size=5>IPv6</font>
+<br>
+Internet Protocol version 6
+<br>
+updated by 249850395@qq.com
+</>
+IRA
+<font size=5>IRA</font>
+<br>
+International Reference Alphabet (ITU T T.50 [13])
+<br>
+updated by 249850395@qq.com
+</>
+IrDA
+<font size=5>IrDA</font>
+<br>
+Infrared Data Association
+<br>
+updated by 249850395@qq.com
+</>
+ISC
+<font size=5>ISC</font>
+<br>
+IP Multimedia Subsystem Service Control
+<br>
+updated by 249850395@qq.com
+</>
+ISIM
+<font size=5>ISIM</font>
+<br>
+IM Services Identity Module
+<br>
+updated by 249850395@qq.com
+</>
+ISM
+<font size=5>ISM</font>
+<br>
+Industrial Scientific and Medical
+<br>
+updated by 249850395@qq.com
+</>
+ISO
+<font size=5>ISO</font>
+<br>
+International Standards Organization
+<br>
+updated by 249850395@qq.com
+</>
+ISR
+<font size=5>ISR</font>
+<br>
+Idle mode Signalling Reduction
+<br>
+updated by 249850395@qq.com
+</>
+ITS
+<font size=5>ITS</font>
+<br>
+Intelligent Transport Systems
+<br>
+updated by 249850395@qq.com
+</>
+ITS-AID
+<font size=5>ITS-AID</font>
+<br>
+ITS Application Identifier
+<br>
+updated by 249850395@qq.com
+</>
+ITUT
+<font size=5>ITUT</font>
+<br>
+International Telecommunication Union Telecommunications Standardization Sector
+<br>
+updated by 249850395@qq.com
+</>
+IWF
+<font size=5>IWF</font>
+<br>
+Interworking Function
+<br>
+updated by 249850395@qq.com
+</>
+I-WLAN
+<font size=5>I-WLAN</font>
+<br>
+Interworking ?C WLAN
+<br>
+updated by 249850395@qq.com
+</>
+K
+<font size=5>K</font>
+<br>
+USIM Individual key
+<br>
+updated by 249850395@qq.com
+</>
+kB
+<font size=5>kB</font>
+<br>
+Kilobyte (1000 bytes)
+<br>
+updated by 249850395@qq.com
+</>
+kbps
+<font size=5>kbps</font>
+<br>
+Kilobits per second
+<br>
+updated by 249850395@qq.com
+</>
+Kc
+<font size=5>Kc</font>
+<br>
+64-bit GSM ciphering key
+<br>
+updated by 249850395@qq.com
+</>
+KC
+<font size=5>KC</font>
+<br>
+Cryptographic key used by the cipher A5
+<br>
+updated by 249850395@qq.com
+</>
+Kc128
+<font size=5>Kc128</font>
+<br>
+128-bit GSM ciphering key
+<br>
+updated by 249850395@qq.com
+</>
+KMS
+<font size=5>KMS</font>
+<br>
+Key Management Service
+<br>
+updated by 249850395@qq.com
+</>
+KSI
+<font size=5>KSI</font>
+<br>
+Key Set Identifier
+<br>
+updated by 249850395@qq.com
+</>
+L1
+<font size=5>L1</font>
+<br>
+Layer 1
+<br>
+updated by 249850395@qq.com
+</>
+L2
+<font size=5>L2</font>
+<br>
+Layer 2
+<br>
+updated by 249850395@qq.com
+</>
+L2
+<font size=5>L2</font>
+<br>
+Layer 2 (data link layer)
+<br>
+updated by 249850395@qq.com
+</>
+L3
+<font size=5>L3</font>
+<br>
+Layer 3
+<br>
+updated by 249850395@qq.com
+</>
+L3
+<font size=5>L3</font>
+<br>
+Layer 3 (network layer)
+<br>
+updated by 249850395@qq.com
+</>
+LAA
+<font size=5>LAA</font>
+<br>
+Licensed-Assisted Access
+<br>
+updated by 249850395@qq.com
+</>
+LAA
+<font size=5>LAA</font>
+<br>
+Licensed-Assisted Access
+<br>
+updated by 249850395@qq.com
+</>
+LCG
+<font size=5>LCG</font>
+<br>
+Logical Channel Group
+<br>
+updated by 249850395@qq.com
+</>
+LCID
+<font size=5>LCID</font>
+<br>
+Logical channel ID
+<br>
+updated by 249850395@qq.com
+</>
+LCS
+<font size=5>LCS</font>
+<br>
+LoCation Services
+<br>
+updated by 249850395@qq.com
+</>
+L-GW
+<font size=5>L-GW</font>
+<br>
+Local PDN Gateway
+<br>
+updated by 249850395@qq.com
+</>
+LHN-ID
+<font size=5>LHN-ID</font>
+<br>
+Local Home Network Identifier
+<br>
+updated by 249850395@qq.com
+</>
+LI
+<font size=5>LI</font>
+<br>
+Language Indication
+<br>
+updated by 249850395@qq.com
+</>
+LIPA
+<font size=5>LIPA</font>
+<br>
+Local IP Access
+<br>
+updated by 249850395@qq.com
+</>
+LMU
+<font size=5>LMU</font>
+<br>
+Location Measurement Unit
+<br>
+updated by 249850395@qq.com
+</>
+LRF
+<font size=5>LRF</font>
+<br>
+Location Retrieval Function
+<br>
+updated by 249850395@qq.com
+</>
+LSA
+<font size=5>LSA</font>
+<br>
+Localised Service Areas
+<br>
+updated by 249850395@qq.com
+</>
+LSB
+<font size=5>LSB</font>
+<br>
+Least Significant Bit
+<br>
+updated by 249850395@qq.com
+</>
+LSF
+<font size=5>LSF</font>
+<br>
+Last Segment Flag
+<br>
+updated by 249850395@qq.com
+</>
+LTE
+<font size=5>LTE</font>
+<br>
+Long Term Evolution
+<br>
+updated by 249850395@qq.com
+</>
+LTZ
+<font size=5>LTZ</font>
+<br>
+Local Time Zone, the offset from UT applying in that locality,including any adjustments for summer time, etc.
+<br>
+updated by 249850395@qq.com
+</>
+LWA
+<font size=5>LWA</font>
+<br>
+LTE-WLAN Aggregation
+<br>
+updated by 249850395@qq.com
+</>
+LWAAP
+<font size=5>LWAAP</font>
+<br>
+LTE-WLAN Aggregation Adaptation Protocol
+<br>
+updated by 249850395@qq.com
+</>
+LWIP
+<font size=5>LWIP</font>
+<br>
+LTE-WLAN Radio Level Integration with IPsec Tunnel
+<br>
+updated by 249850395@qq.com
+</>
+MAC
+<font size=5>MAC</font>
+<br>
+Medium Access Control
+<br>
+updated by 249850395@qq.com
+</>
+MAC
+<font size=5>MAC</font>
+<br>
+Message Authentication Code
+<br>
+updated by 249850395@qq.com
+</>
+MAC
+<font size=5>MAC</font>
+<br>
+Media access control
+<br>
+updated by 249850395@qq.com
+</>
+MAC-A
+<font size=5>MAC-A</font>
+<br>
+MAC used for authentication and key agreement
+<br>
+updated by 249850395@qq.com
+</>
+MAC-I
+<font size=5>MAC-I</font>
+<br>
+MAC used for data integrity of signalling messages
+<br>
+updated by 249850395@qq.com
+</>
+MAC-I
+<font size=5>MAC-I</font>
+<br>
+Message Authentication Code for Integrity
+<br>
+updated by 249850395@qq.com
+</>
+MBMS
+<font size=5>MBMS</font>
+<br>
+Multimedia Broadcast Multicast Service
+<br>
+updated by 249850395@qq.com
+</>
+Mbps
+<font size=5>Mbps</font>
+<br>
+Megabits per second
+<br>
+updated by 249850395@qq.com
+</>
+MBR
+<font size=5>MBR</font>
+<br>
+Maximum Bit Rate
+<br>
+updated by 249850395@qq.com
+</>
+MBSFN
+<font size=5>MBSFN</font>
+<br>
+Multimedia Broadcast multicast service Single Frequency Network
+<br>
+updated by 249850395@qq.com
+</>
+MCC
+<font size=5>MCC</font>
+<br>
+Mobile Country Code
+<br>
+updated by 249850395@qq.com
+</>
+MCCH
+<font size=5>MCCH</font>
+<br>
+Multicast Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+MCData
+<font size=5>MCData</font>
+<br>
+Mission Critical Data
+<br>
+updated by 249850395@qq.com
+</>
+MCE
+<font size=5>MCE</font>
+<br>
+Multicell coordination entity
+<br>
+updated by 249850395@qq.com
+</>
+MCG
+<font size=5>MCG</font>
+<br>
+Master Cell Group
+<br>
+updated by 249850395@qq.com
+</>
+MCH
+<font size=5>MCH</font>
+<br>
+Multicast channel
+<br>
+updated by 249850395@qq.com
+</>
+MCOT
+<font size=5>MCOT</font>
+<br>
+Maximum Channel Occupancy Time
+<br>
+updated by 249850395@qq.com
+</>
+MCPTT
+<font size=5>MCPTT</font>
+<br>
+Mission Critical Push To Talk
+<br>
+updated by 249850395@qq.com
+</>
+MCS
+<font size=5>MCS</font>
+<br>
+Modulation and Coding Scheme
+<br>
+updated by 249850395@qq.com
+</>
+MCS
+<font size=5>MCS</font>
+<br>
+Mission Critical Services
+<br>
+updated by 249850395@qq.com
+</>
+MCS
+<font size=5>MCS</font>
+<br>
+Master control subsystem
+<br>
+updated by 249850395@qq.com
+</>
+MCVideo
+<font size=5>MCVideo</font>
+<br>
+Mission Critical Video
+<br>
+updated by 249850395@qq.com
+</>
+MDT
+<font size=5>MDT</font>
+<br>
+Minimization of Drive Tests
+<br>
+updated by 249850395@qq.com
+</>
+ME
+<font size=5>ME</font>
+<br>
+Mobile Equipment
+<br>
+updated by 249850395@qq.com
+</>
+MexE
+<font size=5>MexE</font>
+<br>
+Mobile Execution Environment
+<br>
+updated by 249850395@qq.com
+</>
+MF
+<font size=5>MF</font>
+<br>
+Master File
+<br>
+updated by 249850395@qq.com
+</>
+MGCF
+<font size=5>MGCF</font>
+<br>
+Media Gateway Control Function
+<br>
+updated by 249850395@qq.com
+</>
+MGV-F
+<font size=5>MGV-F</font>
+<br>
+MTK Generation and Validation Function 
+<br>
+updated by 249850395@qq.com
+</>
+MGW
+<font size=5>MGW</font>
+<br>
+Media Gateway
+<br>
+updated by 249850395@qq.com
+</>
+MIB
+<font size=5>MIB</font>
+<br>
+Master Information Block
+<br>
+updated by 249850395@qq.com
+</>
+MICO
+<font size=5>MICO</font>
+<br>
+Mobile Initiated Connection Only 
+<br>
+updated by 249850395@qq.com
+</>
+MiD
+<font size=5>MiD</font>
+<br>
+Multi-iDentity
+<br>
+updated by 249850395@qq.com
+</>
+MIKEY
+<font size=5>MIKEY</font>
+<br>
+Multimedia Internet KEYing 
+<br>
+updated by 249850395@qq.com
+</>
+MIMO
+<font size=5>MIMO</font>
+<br>
+Multiple Input Multiple Output
+<br>
+updated by 249850395@qq.com
+</>
+MM
+<font size=5>MM</font>
+<br>
+Multimedia Message
+<br>
+updated by 249850395@qq.com
+</>
+MME
+<font size=5>MME</font>
+<br>
+Mobility Management Entity
+<br>
+updated by 249850395@qq.com
+</>
+MMEC
+<font size=5>MMEC</font>
+<br>
+MME Code
+<br>
+updated by 249850395@qq.com
+</>
+MMI
+<font size=5>MMI</font>
+<br>
+Man Machine Interface
+<br>
+updated by 249850395@qq.com
+</>
+MMS
+<font size=5>MMS</font>
+<br>
+Multimedia Messaging Service
+<br>
+updated by 249850395@qq.com
+</>
+MMSS
+<font size=5>MMSS</font>
+<br>
+MultiMode System Selection
+<br>
+updated by 249850395@qq.com
+</>
+MNC
+<font size=5>MNC</font>
+<br>
+Mobile Network Code
+<br>
+updated by 249850395@qq.com
+</>
+MNS
+<font size=5>MNS</font>
+<br>
+Mobile Network Signalling 
+<br>
+updated by 249850395@qq.com
+</>
+MO
+<font size=5>MO</font>
+<br>
+Mobile Originating
+<br>
+updated by 249850395@qq.com
+</>
+MOCN
+<font size=5>MOCN</font>
+<br>
+Multi-Operator Core Network
+<br>
+updated by 249850395@qq.com
+</>
+MODE
+<font size=5>MODE</font>
+<br>
+Indication packet switched/circuit switched mode
+<br>
+updated by 249850395@qq.com
+</>
+MoU
+<font size=5>MoU</font>
+<br>
+Memorandum of Understanding (GSM operator joint)
+<br>
+updated by 249850395@qq.com
+</>
+MPDCCH
+<font size=5>MPDCCH</font>
+<br>
+MTC Physical Downlink Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+MRB
+<font size=5>MRB</font>
+<br>
+MBMS Point to Multipoint Radio Bearer
+<br>
+updated by 249850395@qq.com
+</>
+MR-DC
+<font size=5>MR-DC</font>
+<br>
+Multi-Radio Dual Connectivity
+<br>
+updated by 249850395@qq.com
+</>
+MRFC
+<font size=5>MRFC</font>
+<br>
+Multimedia Resource Function Controller
+<br>
+updated by 249850395@qq.com
+</>
+MRFP
+<font size=5>MRFP</font>
+<br>
+Multimedia Resource Function Processor
+<br>
+updated by 249850395@qq.com
+</>
+M-RNTI
+<font size=5>M-RNTI</font>
+<br>
+MBMS RNTI
+<br>
+updated by 249850395@qq.com
+</>
+MRO
+<font size=5>MRO</font>
+<br>
+Mobility Robustness Optimisation
+<br>
+updated by 249850395@qq.com
+</>
+MSB
+<font size=5>MSB</font>
+<br>
+Most Significant Bit
+<br>
+updated by 249850395@qq.com
+</>
+MSI
+<font size=5>MSI</font>
+<br>
+MCH Scheduling Information
+<br>
+updated by 249850395@qq.com
+</>
+MSK
+<font size=5>MSK</font>
+<br>
+MBMS Service Key
+<br>
+updated by 249850395@qq.com
+</>
+MT
+<font size=5>MT</font>
+<br>
+Mobile Terminating
+<br>
+updated by 249850395@qq.com
+</>
+MT
+<font size=5>MT</font>
+<br>
+Mobile Termination
+<br>
+updated by 249850395@qq.com
+</>
+MTC
+<font size=5>MTC</font>
+<br>
+Machine Type Communications
+<br>
+updated by 249850395@qq.com
+</>
+MTCH
+<font size=5>MTCH</font>
+<br>
+Multicast Traffic Channel
+<br>
+updated by 249850395@qq.com
+</>
+MTK
+<font size=5>MTK</font>
+<br>
+MBMS Traffic Key
+<br>
+updated by 249850395@qq.com
+</>
+M-TMSI
+<font size=5>M-TMSI</font>
+<br>
+M-Temporary Mobile Subscriber Identity
+<br>
+updated by 249850395@qq.com
+</>
+MTPL
+<font size=5>MTPL</font>
+<br>
+Max Tx power limit
+<br>
+updated by 249850395@qq.com
+</>
+MTSI
+<font size=5>MTSI</font>
+<br>
+Multimedia Telephony Service for IMS
+<br>
+updated by 249850395@qq.com
+</>
+MTU
+<font size=5>MTU</font>
+<br>
+Maximum Transfer Unit
+<br>
+updated by 249850395@qq.com
+</>
+MuD
+<font size=5>MuD</font>
+<br>
+Multi-Device
+<br>
+updated by 249850395@qq.com
+</>
+MUK
+<font size=5>MUK</font>
+<br>
+MBMS User Key
+<br>
+updated by 249850395@qq.com
+</>
+MUST
+<font size=5>MUST</font>
+<br>
+MultiUser Superposition Transmission
+<br>
+updated by 249850395@qq.com
+</>
+NE-DC
+<font size=5>NE-DC</font>
+<br>
+NR E-UTRA Dual Connectivity with MCG using NR and SCG using E-UTRA Narrowband Physical Broadcast channel
+<br>
+updated by 249850395@qq.com
+</>
+MWUS
+<font size=5>MWUS</font>
+<br>
+MTC Wake-Up Signal
+<br>
+updated by 249850395@qq.com
+</>
+N/A
+<font size=5>N/A</font>
+<br>
+Not Applicable
+<br>
+updated by 249850395@qq.com
+</>
+NAPT
+<font size=5>NAPT</font>
+<br>
+Network Address (and Port) Translation
+<br>
+updated by 249850395@qq.com
+</>
+NACC
+<font size=5>NACC</font>
+<br>
+Network Assisted Cell Change
+<br>
+updated by 249850395@qq.com
+</>
+NACK
+<font size=5>NACK</font>
+<br>
+Negative Acknowledgement
+<br>
+updated by 249850395@qq.com
+</>
+NAI
+<font size=5>NAI</font>
+<br>
+Network Access Identifier
+<br>
+updated by 249850395@qq.com
+</>
+NAICS
+<font size=5>NAICS</font>
+<br>
+Network Assisted Interference Cancellation/Suppression
+<br>
+updated by 249850395@qq.com
+</>
+NAPT
+<font size=5>NAPT</font>
+<br>
+Network Address and Port Translation
+<br>
+updated by 249850395@qq.com
+</>
+NAS
+<font size=5>NAS</font>
+<br>
+Non Access Stratum
+<br>
+updated by 249850395@qq.com
+</>
+NASS
+<font size=5>NASS</font>
+<br>
+Network Attachment Subsystem
+<br>
+updated by 249850395@qq.com
+</>
+NAT
+<font size=5>NAT</font>
+<br>
+Network Address Translation
+<br>
+updated by 249850395@qq.com
+</>
+NB-IoT
+<font size=5>NB-IoT</font>
+<br>
+NarrowBand Internet of Things
+<br>
+updated by 249850395@qq.com
+</>
+NCCE
+<font size=5>NCCE</font>
+<br>
+Narrowband Control Channel Element
+<br>
+updated by 249850395@qq.com
+</>
+NDI
+<font size=5>NDI</font>
+<br>
+New data indicator
+<br>
+updated by 249850395@qq.com
+</>
+NDS
+<font size=5>NDS</font>
+<br>
+Network Domain Security
+<br>
+updated by 249850395@qq.com
+</>
+NE-DC
+<font size=5>NE-DC</font>
+<br>
+NR E-UTRA Dual Connectivity
+<br>
+updated by 249850395@qq.com
+</>
+NEV
+<font size=5>NEV</font>
+<br>
+NEVer
+<br>
+updated by 249850395@qq.com
+</>
+NGEN-DC
+<font size=5>NGEN-DC</font>
+<br>
+E-UTRA NR Dual Connectivity with E-UTRAN connected to 5GC
+<br>
+updated by 249850395@qq.com
+</>
+ngKSI
+<font size=5>ngKSI</font>
+<br>
+Key Set Identifier in 5G
+<br>
+updated by 249850395@qq.com
+</>
+NG-RAN
+<font size=5>NG-RAN</font>
+<br>
+Next Generation Radio Access Network
+<br>
+updated by 249850395@qq.com
+</>
+NITZ
+<font size=5>NITZ</font>
+<br>
+The feature Network Identity and Timezone
+<br>
+updated by 249850395@qq.com
+</>
+NP
+<font size=5>NP</font>
+<br>
+Number Portability
+<br>
+updated by 249850395@qq.com
+</>
+NPBCH
+<font size=5>NPBCH</font>
+<br>
+Narrowband Physical Broadcast channel
+<br>
+updated by 249850395@qq.com
+</>
+NPDCCH
+<font size=5>NPDCCH</font>
+<br>
+Narrowband Physical Downlink Control channel
+<br>
+updated by 249850395@qq.com
+</>
+NPDSCH
+<font size=5>NPDSCH</font>
+<br>
+Narrowband Physical Downlink Shared channel
+<br>
+updated by 249850395@qq.com
+</>
+N-PDU
+<font size=5>N-PDU</font>
+<br>
+Network-Protocol Data Unit
+<br>
+updated by 249850395@qq.com
+</>
+NPI
+<font size=5>NPI</font>
+<br>
+Numbering Plan Identifier
+<br>
+updated by 249850395@qq.com
+</>
+NPRACH
+<font size=5>NPRACH</font>
+<br>
+Narrowband Physical Random Access channel
+<br>
+updated by 249850395@qq.com
+</>
+NPRS
+<font size=5>NPRS</font>
+<br>
+Narrowband Positioning Reference Signal
+<br>
+updated by 249850395@qq.com
+</>
+NPSS
+<font size=5>NPSS</font>
+<br>
+Narrowband Primary Synchronization Signal
+<br>
+updated by 249850395@qq.com
+</>
+NPUSCH
+<font size=5>NPUSCH</font>
+<br>
+Narrowband Physical Uplink Shared channel
+<br>
+updated by 249850395@qq.com
+</>
+NR
+<font size=5>NR</font>
+<br>
+NR Radio Access
+<br>
+updated by 249850395@qq.com
+</>
+NR
+<font size=5>NR</font>
+<br>
+New radio
+<br>
+updated by 249850395@qq.com
+</>
+NRS
+<font size=5>NRS</font>
+<br>
+Narrowband Reference Signal
+<br>
+updated by 249850395@qq.com
+</>
+NSI
+<font size=5>NSI</font>
+<br>
+Network Specific Identifier
+<br>
+updated by 249850395@qq.com
+</>
+NSSAI
+<font size=5>NSSAI</font>
+<br>
+Network Slice Selection Assistance Information
+<br>
+updated by 249850395@qq.com
+</>
+NSSS
+<font size=5>NSSS</font>
+<br>
+Narrowband Secondary Synchronization Signal
+<br>
+updated by 249850395@qq.com
+</>
+o
+<font size=5>o</font>
+<br>
+optional
+<br>
+updated by 249850395@qq.com
+</>
+OCF
+<font size=5>OCF</font>
+<br>
+Online Charging Function
+<br>
+updated by 249850395@qq.com
+</>
+OCI
+<font size=5>OCI</font>
+<br>
+Outgoing Call Information
+<br>
+updated by 249850395@qq.com
+</>
+OCT
+<font size=5>OCT</font>
+<br>
+Outgoing Call Timer
+<br>
+updated by 249850395@qq.com
+</>
+OFDM
+<font size=5>OFDM</font>
+<br>
+Orthogonal Frequency Division Multiplexing
+<br>
+updated by 249850395@qq.com
+</>
+OLI
+<font size=5>OLI</font>
+<br>
+Originating Line Information
+<br>
+updated by 249850395@qq.com
+</>
+OOW
+<font size=5>OOW</font>
+<br>
+Out of world
+<br>
+updated by 249850395@qq.com
+</>
+OS
+<font size=5>OS</font>
+<br>
+OFDM Symbol
+<br>
+updated by 249850395@qq.com
+</>
+P2X
+<font size=5>P2X</font>
+<br>
+Pedestrian-to-Everything
+<br>
+updated by 249850395@qq.com
+</>
+PBCH
+<font size=5>PBCH</font>
+<br>
+Physical Broadcast Channel
+<br>
+updated by 249850395@qq.com
+</>
+PBCH
+<font size=5>PBCH</font>
+<br>
+Physical Broadcast Channel
+<br>
+updated by 249850395@qq.com
+</>
+PBID
+<font size=5>PBID</font>
+<br>
+Phonebook Identifier
+<br>
+updated by 249850395@qq.com
+</>
+PCCA
+<font size=5>PCCA</font>
+<br>
+Portable Computer and Communications Association
+<br>
+updated by 249850395@qq.com
+</>
+PCCH
+<font size=5>PCCH</font>
+<br>
+Paging Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+PCCPCH
+<font size=5>PCCPCH</font>
+<br>
+Primary Common Control Physical Channel
+<br>
+updated by 249850395@qq.com
+</>
+PCell
+<font size=5>PCell</font>
+<br>
+Primary Cell
+<br>
+updated by 249850395@qq.com
+</>
+PCFICH
+<font size=5>PCFICH</font>
+<br>
+Physical Control Format Indicator Channel
+<br>
+updated by 249850395@qq.com
+</>
+PCH
+<font size=5>PCH</font>
+<br>
+Paging channel
+<br>
+updated by 249850395@qq.com
+</>
+PCI
+<font size=5>PCI</font>
+<br>
+Precoding control indicator
+<br>
+updated by 249850395@qq.com
+</>
+PCO
+<font size=5>PCO</font>
+<br>
+Protocol Configuration Options
+<br>
+updated by 249850395@qq.com
+</>
+PCRF
+<font size=5>PCRF</font>
+<br>
+Policy and Charging Rules Function
+<br>
+updated by 249850395@qq.com
+</>
+P-CSCF
+<font size=5>P-CSCF</font>
+<br>
+Proxy CSCF
+<br>
+updated by 249850395@qq.com
+</>
+PD
+<font size=5>PD</font>
+<br>
+Protocol Discriminator
+<br>
+updated by 249850395@qq.com
+</>
+PDCCH
+<font size=5>PDCCH</font>
+<br>
+Physical Downlink Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+PDCP
+<font size=5>PDCP</font>
+<br>
+Packet Data Convergence Protocol
+<br>
+updated by 249850395@qq.com
+</>
+PDG
+<font size=5>PDG</font>
+<br>
+Packet Data Gateway
+<br>
+updated by 249850395@qq.com
+</>
+PDN
+<font size=5>PDN</font>
+<br>
+Packet Data Network
+<br>
+updated by 249850395@qq.com
+</>
+PDN GW
+<font size=5>PDN GW</font>
+<br>
+Packet Data Network Gateway
+<br>
+updated by 249850395@qq.com
+</>
+PDP
+<font size=5>PDP</font>
+<br>
+Packet Data Protocol
+<br>
+updated by 249850395@qq.com
+</>
+PDSCH
+<font size=5>PDSCH</font>
+<br>
+Physical Downlink Shared Channel
+<br>
+updated by 249850395@qq.com
+</>
+PDU
+<font size=5>PDU</font>
+<br>
+Protocol Data Unit
+<br>
+updated by 249850395@qq.com
+</>
+PEK
+<font size=5>PEK</font>
+<br>
+ProSe Encryption Key
+<br>
+updated by 249850395@qq.com
+</>
+PFI
+<font size=5>PFI</font>
+<br>
+PC5 QoS Flow Identifier
+<br>
+updated by 249850395@qq.com
+</>
+PGK
+<font size=5>PGK</font>
+<br>
+ProSe Group Key
+<br>
+updated by 249850395@qq.com
+</>
+P-GW
+<font size=5>P-GW</font>
+<br>
+PDN Gateway
+<br>
+updated by 249850395@qq.com
+</>
+PHICH
+<font size=5>PHICH</font>
+<br>
+Physical Hybrid ARQ Indicator Channel
+<br>
+updated by 249850395@qq.com
+</>
+PHR
+<font size=5>PHR</font>
+<br>
+Power Headroom Report
+<br>
+updated by 249850395@qq.com
+</>
+PICS
+<font size=5>PICS</font>
+<br>
+Protocol Implementation Conformance Statement 
+<br>
+updated by 249850395@qq.com
+</>
+PIDF-LO
+<font size=5>PIDF-LO</font>
+<br>
+Presence Information Data Format Location Object
+<br>
+updated by 249850395@qq.com
+</>
+PIN
+<font size=5>PIN</font>
+<br>
+Personal Identification Number
+<br>
+updated by 249850395@qq.com
+</>
+PL
+<font size=5>PL</font>
+<br>
+Preferred Languages
+<br>
+updated by 249850395@qq.com
+</>
+PLMN
+<font size=5>PLMN</font>
+<br>
+Public Land Mobile Network
+<br>
+updated by 249850395@qq.com
+</>
+PMCH
+<font size=5>PMCH</font>
+<br>
+Physical Multicast Channel 
+<br>
+updated by 249850395@qq.com
+</>
+PMI
+<font size=5>PMI</font>
+<br>
+Precoding Matrix Indicator
+<br>
+updated by 249850395@qq.com
+</>
+PMK
+<font size=5>PMK</font>
+<br>
+Pairwise Master Key
+<br>
+updated by 249850395@qq.com
+</>
+PO
+<font size=5>PO</font>
+<br>
+Paging Occasion
+<br>
+updated by 249850395@qq.com
+</>
+posSIB
+<font size=5>posSIB</font>
+<br>
+Positioning SIB
+<br>
+updated by 249850395@qq.com
+</>
+PQI
+<font size=5>PQI</font>
+<br>
+PC5 5QI
+<br>
+updated by 249850395@qq.com
+</>
+PRACH
+<font size=5>PRACH</font>
+<br>
+Physical Random Access Channel
+<br>
+updated by 249850395@qq.com
+</>
+PRB
+<font size=5>PRB</font>
+<br>
+Physical Resource Block
+<br>
+updated by 249850395@qq.com
+</>
+PRG
+<font size=5>PRG</font>
+<br>
+Precoding Resource Block Group
+<br>
+updated by 249850395@qq.com
+</>
+P-RNTI 
+<font size=5>P-RNTI </font>
+<br>
+Paging RNTI
+<br>
+updated by 249850395@qq.com
+</>
+ProSe
+<font size=5>ProSe</font>
+<br>
+Proximity based Services
+<br>
+updated by 249850395@qq.com
+</>
+ProSe 
+<font size=5>ProSe </font>
+<br>
+Proximity Services
+<br>
+updated by 249850395@qq.com
+</>
+PRS
+<font size=5>PRS</font>
+<br>
+Positioning Reference Symbol
+<br>
+updated by 249850395@qq.com
+</>
+PS
+<font size=5>PS</font>
+<br>
+Public Safety (in context of sidelink),Packet Switched (otherwise)
+<br>
+updated by 249850395@qq.com
+</>
+PS
+<font size=5>PS</font>
+<br>
+Packet switched
+<br>
+updated by 249850395@qq.com
+</>
+PS_DO
+<font size=5>PS_DO</font>
+<br>
+PIN Status Data Object 
+<br>
+updated by 249850395@qq.com
+</>
+PSAP
+<font size=5>PSAP</font>
+<br>
+Public Safety Answering Point
+<br>
+updated by 249850395@qq.com
+</>
+PSBCH
+<font size=5>PSBCH</font>
+<br>
+Physical Sidelink Broadcast Channel
+<br>
+updated by 249850395@qq.com
+</>
+PSCCH
+<font size=5>PSCCH</font>
+<br>
+Physical Sidelink Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+PSCell
+<font size=5>PSCell</font>
+<br>
+Primary Secondary Cell
+<br>
+updated by 249850395@qq.com
+</>
+PSDCH
+<font size=5>PSDCH</font>
+<br>
+Physical Sidelink Discovery Channel
+<br>
+updated by 249850395@qq.com
+</>
+PSDK
+<font size=5>PSDK</font>
+<br>
+Public Safety Discovery Key
+<br>
+updated by 249850395@qq.com
+</>
+PSI
+<font size=5>PSI</font>
+<br>
+Public Service Identity
+<br>
+updated by 249850395@qq.com
+</>
+PSID
+<font size=5>PSID</font>
+<br>
+Provider Service Identifier
+<br>
+updated by 249850395@qq.com
+</>
+PSK
+<font size=5>PSK</font>
+<br>
+Pre-Shared Key
+<br>
+updated by 249850395@qq.com
+</>
+PSM
+<font size=5>PSM</font>
+<br>
+Power Saving Mode
+<br>
+updated by 249850395@qq.com
+</>
+PSSCH
+<font size=5>PSSCH</font>
+<br>
+Physical Sidelink Shared Channel
+<br>
+updated by 249850395@qq.com
+</>
+PSTN
+<font size=5>PSTN</font>
+<br>
+Public Switched Telephone Network
+<br>
+updated by 249850395@qq.com
+</>
+PTAG
+<font size=5>PTAG</font>
+<br>
+Primary Timing Advance Group
+<br>
+updated by 249850395@qq.com
+</>
+PTI
+<font size=5>PTI</font>
+<br>
+Precoding Type Indicator
+<br>
+updated by 249850395@qq.com
+</>
+PTI
+<font size=5>PTI</font>
+<br>
+Procedure Transaction Identity
+<br>
+updated by 249850395@qq.com
+</>
+PTI
+<font size=5>PTI</font>
+<br>
+Precoding Type Indicator
+<br>
+updated by 249850395@qq.com
+</>
+PTK
+<font size=5>PTK</font>
+<br>
+ProSe Traffic Key
+<br>
+updated by 249850395@qq.com
+</>
+PTT
+<font size=5>PTT</font>
+<br>
+Push to Talk
+<br>
+updated by 249850395@qq.com
+</>
+PUCCH
+<font size=5>PUCCH</font>
+<br>
+Physical Uplink Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+PUR
+<font size=5>PUR</font>
+<br>
+Preconfigured Uplink Resource
+<br>
+updated by 249850395@qq.com
+</>
+PUSCH
+<font size=5>PUSCH</font>
+<br>
+Physical Uplink Shared Channel 
+<br>
+updated by 249850395@qq.com
+</>
+QAM
+<font size=5>QAM</font>
+<br>
+Quadrature Amplitude Modulation
+<br>
+updated by 249850395@qq.com
+</>
+QCI
+<font size=5>QCI</font>
+<br>
+QoS Class Identifier
+<br>
+updated by 249850395@qq.com
+</>
+QoE
+<font size=5>QoE</font>
+<br>
+Quality of Experience
+<br>
+updated by 249850395@qq.com
+</>
+QoS
+<font size=5>QoS</font>
+<br>
+Quality of Service
+<br>
+updated by 249850395@qq.com
+</>
+QPP
+<font size=5>QPP</font>
+<br>
+Quadratic Permutation Polynomial
+<br>
+updated by 249850395@qq.com
+</>
+QPSK
+<font size=5>QPSK</font>
+<br>
+Quadrature Phase Shift Keying
+<br>
+updated by 249850395@qq.com
+</>
+R
+<font size=5>R</font>
+<br>
+Reserved
+<br>
+updated by 249850395@qq.com
+</>
+RACH
+<font size=5>RACH</font>
+<br>
+Random Access CHannel
+<br>
+updated by 249850395@qq.com
+</>
+RACH
+<font size=5>RACH</font>
+<br>
+Random access channel
+<br>
+updated by 249850395@qq.com
+</>
+RAI
+<font size=5>RAI</font>
+<br>
+Release Assistance Indication
+<br>
+updated by 249850395@qq.com
+</>
+RAND
+<font size=5>RAND</font>
+<br>
+RANDom challenge
+<br>
+updated by 249850395@qq.com
+</>
+RANDMS
+<font size=5>RANDMS</font>
+<br>
+Random challenge stored in the USIM
+<br>
+updated by 249850395@qq.com
+</>
+RAR
+<font size=5>RAR</font>
+<br>
+Random access response
+<br>
+updated by 249850395@qq.com
+</>
+RA-RNTI
+<font size=5>RA-RNTI</font>
+<br>
+Random Access RNTI
+<br>
+updated by 249850395@qq.com
+</>
+RAT
+<font size=5>RAT</font>
+<br>
+Radio Access Technology
+<br>
+updated by 249850395@qq.com
+</>
+RB
+<font size=5>RB</font>
+<br>
+Radio Bearer
+<br>
+updated by 249850395@qq.com
+</>
+RB
+<font size=5>RB</font>
+<br>
+Resource block
+<br>
+updated by 249850395@qq.com
+</>
+RBG
+<font size=5>RBG</font>
+<br>
+Resource Block Group
+<br>
+updated by 249850395@qq.com
+</>
+RBS
+<font size=5>RBS</font>
+<br>
+Remote business support system
+<br>
+updated by 249850395@qq.com
+</>
+RCLWI
+<font size=5>RCLWI</font>
+<br>
+RAN Controlled LTE-WLAN Integration
+<br>
+updated by 249850395@qq.com
+</>
+RDI
+<font size=5>RDI</font>
+<br>
+Restricted Digital Information
+<br>
+updated by 249850395@qq.com
+</>
+RE
+<font size=5>RE</font>
+<br>
+Resource Element 
+<br>
+updated by 249850395@qq.com
+</>
+REG
+<font size=5>REG</font>
+<br>
+Resource-Element Group
+<br>
+updated by 249850395@qq.com
+</>
+RES
+<font size=5>RES</font>
+<br>
+RESponse
+<br>
+updated by 249850395@qq.com
+</>
+RES
+<font size=5>RES</font>
+<br>
+User response
+<br>
+updated by 249850395@qq.com
+</>
+ReTx
+<font size=5>ReTx</font>
+<br>
+Retransmission
+<br>
+updated by 249850395@qq.com
+</>
+RFC
+<font size=5>RFC</font>
+<br>
+Request For Comments
+<br>
+updated by 249850395@qq.com
+</>
+RFU
+<font size=5>RFU</font>
+<br>
+Reserved for Future Use
+<br>
+updated by 249850395@qq.com
+</>
+RI
+<font size=5>RI</font>
+<br>
+Rank Indication
+<br>
+updated by 249850395@qq.com
+</>
+RIV
+<font size=5>RIV</font>
+<br>
+Resource indicator value
+<br>
+updated by 249850395@qq.com
+</>
+RLC
+<font size=5>RLC</font>
+<br>
+Radio Link Control
+<br>
+updated by 249850395@qq.com
+</>
+RLOS
+<font size=5>RLOS</font>
+<br>
+Restricted Local Operator Services
+<br>
+updated by 249850395@qq.com
+</>
+RLP
+<font size=5>RLP</font>
+<br>
+Radio Link Protocol
+<br>
+updated by 249850395@qq.com
+</>
+RM
+<font size=5>RM</font>
+<br>
+Registration manager
+<br>
+updated by 249850395@qq.com
+</>
+RMTC
+<font size=5>RMTC</font>
+<br>
+RSSI Measurement Timing Configuration
+<br>
+updated by 249850395@qq.com
+</>
+RN
+<font size=5>RN</font>
+<br>
+Relay Node
+<br>
+updated by 249850395@qq.com
+</>
+RNA
+<font size=5>RNA</font>
+<br>
+RAN-based Notification Area
+<br>
+updated by 249850395@qq.com
+</>
+RNAU
+<font size=5>RNAU</font>
+<br>
+RAN-based Notification Area Update
+<br>
+updated by 249850395@qq.com
+</>
+RNTI
+<font size=5>RNTI</font>
+<br>
+Radio Network Temporary Identifier
+<br>
+updated by 249850395@qq.com
+</>
+ROHC
+<font size=5>ROHC</font>
+<br>
+RObust Header Compression
+<br>
+updated by 249850395@qq.com
+</>
+R-PDCCH 
+<font size=5>R-PDCCH </font>
+<br>
+Relay Physical Downlink Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+RPF
+<font size=5>RPF</font>
+<br>
+Repetition Factor
+<br>
+updated by 249850395@qq.com
+</>
+RPLMN
+<font size=5>RPLMN</font>
+<br>
+Registered Public Land Mobile Network
+<br>
+updated by 249850395@qq.com
+</>
+RRC
+<font size=5>RRC</font>
+<br>
+Radio Resource Control
+<br>
+updated by 249850395@qq.com
+</>
+RS
+<font size=5>RS</font>
+<br>
+Reference Signal
+<br>
+updated by 249850395@qq.com
+</>
+RSCP
+<font size=5>RSCP</font>
+<br>
+Received Signal Code Power
+<br>
+updated by 249850395@qq.com
+</>
+RSRP
+<font size=5>RSRP</font>
+<br>
+Reference Signal Received Power
+<br>
+updated by 249850395@qq.com
+</>
+RSRQ
+<font size=5>RSRQ</font>
+<br>
+Reference Signal Received Quality
+<br>
+updated by 249850395@qq.com
+</>
+RSS
+<font size=5>RSS</font>
+<br>
+Resynchronization Signal
+<br>
+updated by 249850395@qq.com
+</>
+RSSI
+<font size=5>RSSI</font>
+<br>
+Received Signal Strength Indicator
+<br>
+updated by 249850395@qq.com
+</>
+RST
+<font size=5>RST</font>
+<br>
+Reset
+<br>
+updated by 249850395@qq.com
+</>
+RSTD
+<font size=5>RSTD</font>
+<br>
+Reference Signal Time Difference
+<br>
+updated by 249850395@qq.com
+</>
+RSU
+<font size=5>RSU</font>
+<br>
+Road Side Unit
+<br>
+updated by 249850395@qq.com
+</>
+RTCP
+<font size=5>RTCP</font>
+<br>
+Real-time Transport Control Protocol
+<br>
+updated by 249850395@qq.com
+</>
+RTP
+<font size=5>RTP</font>
+<br>
+Real-time Transport Protocol
+<br>
+updated by 249850395@qq.com
+</>
+RV
+<font size=5>RV</font>
+<br>
+Redundancy version
+<br>
+updated by 249850395@qq.com
+</>
+S101-AP
+<font size=5>S101-AP</font>
+<br>
+S101 Application Protocol
+<br>
+updated by 249850395@qq.com
+</>
+S1AP
+<font size=5>S1AP</font>
+<br>
+S1 Application Protocol
+<br>
+updated by 249850395@qq.com
+</>
+SAE
+<font size=5>SAE</font>
+<br>
+System Architecture Evolution
+<br>
+updated by 249850395@qq.com
+</>
+SAP
+<font size=5>SAP</font>
+<br>
+Service Access Point
+<br>
+updated by 249850395@qq.com
+</>
+SC-FDMA
+<font size=5>SC-FDMA</font>
+<br>
+Single-Carrier Frequency Division Multiple Access
+<br>
+updated by 249850395@qq.com
+</>
+SPDCCH
+<font size=5>SPDCCH</font>
+<br>
+Short Physical Downlink Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+SBAS
+<font size=5>SBAS</font>
+<br>
+Satellite Based Augmentation System
+<br>
+updated by 249850395@qq.com
+</>
+SBCCH
+<font size=5>SBCCH</font>
+<br>
+Sidelink Broadcast Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+SC
+<font size=5>SC</font>
+<br>
+Sidelink Control
+<br>
+updated by 249850395@qq.com
+</>
+SCCE
+<font size=5>SCCE</font>
+<br>
+Short Control Channel Element
+<br>
+updated by 249850395@qq.com
+</>
+SCell
+<font size=5>SCell</font>
+<br>
+Secondary Cell
+<br>
+updated by 249850395@qq.com
+</>
+SI-RNTI
+<font size=5>SI-RNTI</font>
+<br>
+System Information RNTI
+<br>
+updated by 249850395@qq.com
+</>
+SCG
+<font size=5>SCG</font>
+<br>
+Secondary Cell Group
+<br>
+updated by 249850395@qq.com
+</>
+SCI
+<font size=5>SCI</font>
+<br>
+Sidelink Control Information
+<br>
+updated by 249850395@qq.com
+</>
+SC-MRB
+<font size=5>SC-MRB</font>
+<br>
+Single Cell MRB
+<br>
+updated by 249850395@qq.com
+</>
+SC-RNTI
+<font size=5>SC-RNTI</font>
+<br>
+Single Cell RNTI
+<br>
+updated by 249850395@qq.com
+</>
+SCS
+<font size=5>SCS</font>
+<br>
+Sub carrier spacing
+<br>
+updated by 249850395@qq.com
+</>
+S-CSCF
+<font size=5>S-CSCF</font>
+<br>
+Serving CSCF
+<br>
+updated by 249850395@qq.com
+</>
+SCTP
+<font size=5>SCTP</font>
+<br>
+Stream Control Transmission Protocol
+<br>
+updated by 249850395@qq.com
+</>
+SDES
+<font size=5>SDES</font>
+<br>
+Session Description Protocol Security Descriptions for Media Streams
+<br>
+updated by 249850395@qq.com
+</>
+SDN
+<font size=5>SDN</font>
+<br>
+Service dialling number
+<br>
+updated by 249850395@qq.com
+</>
+SDP
+<font size=5>SDP</font>
+<br>
+Session Description Protocol
+<br>
+updated by 249850395@qq.com
+</>
+SD-RSRP
+<font size=5>SD-RSRP</font>
+<br>
+Sidelink Discovery Reference Signal Received Power
+<br>
+updated by 249850395@qq.com
+</>
+SDU
+<font size=5>SDU</font>
+<br>
+Service Data Unit
+<br>
+updated by 249850395@qq.com
+</>
+SE
+<font size=5>SE</font>
+<br>
+Security Environment
+<br>
+updated by 249850395@qq.com
+</>
+SEQp
+<font size=5>SEQp</font>
+<br>
+Sequence number for MGV-F stored in the USIM
+<br>
+updated by 249850395@qq.com
+</>
+SFI
+<font size=5>SFI</font>
+<br>
+Short EF Identifier
+<br>
+updated by 249850395@qq.com
+</>
+SFN
+<font size=5>SFN</font>
+<br>
+System Frame Number
+<br>
+updated by 249850395@qq.com
+</>
+SGSN
+<font size=5>SGSN</font>
+<br>
+Serving GPRS Support Node
+<br>
+updated by 249850395@qq.com
+</>
+SI
+<font size=5>SI</font>
+<br>
+System Information
+<br>
+updated by 249850395@qq.com
+</>
+SI
+<font size=5>SI</font>
+<br>
+Scheduling information
+<br>
+updated by 249850395@qq.com
+</>
+SIB
+<font size=5>SIB</font>
+<br>
+System Information Block
+<br>
+updated by 249850395@qq.com
+</>
+SIM
+<font size=5>SIM</font>
+<br>
+Subscriber Identity Module
+<br>
+updated by 249850395@qq.com
+</>
+SINR
+<font size=5>SINR</font>
+<br>
+Signal to Interference plus Noise Ratio 
+<br>
+updated by 249850395@qq.com
+</>
+SIP
+<font size=5>SIP</font>
+<br>
+Session Initiation Protocol
+<br>
+updated by 249850395@qq.com
+</>
+SIPTO
+<font size=5>SIPTO</font>
+<br>
+Selected IP Traffic Offload
+<br>
+updated by 249850395@qq.com
+</>
+SIR
+<font size=5>SIR</font>
+<br>
+Signal-to-Interference Ratio
+<br>
+updated by 249850395@qq.com
+</>
+SI-RNTI
+<font size=5>SI-RNTI</font>
+<br>
+System Information RNTI
+<br>
+updated by 249850395@qq.com
+</>
+SL
+<font size=5>SL</font>
+<br>
+Sidelink
+<br>
+updated by 249850395@qq.com
+</>
+SL-BCH
+<font size=5>SL-BCH</font>
+<br>
+Sidelink Broadcast Channel
+<br>
+updated by 249850395@qq.com
+</>
+SL-DCH
+<font size=5>SL-DCH</font>
+<br>
+Sidelink Discovery Channel
+<br>
+updated by 249850395@qq.com
+</>
+SLF
+<font size=5>SLF</font>
+<br>
+Subscription Locator Function
+<br>
+updated by 249850395@qq.com
+</>
+SLRB
+<font size=5>SLRB</font>
+<br>
+Sidelink Radio Bearer carrying ProSe Direct Communication data
+<br>
+updated by 249850395@qq.com
+</>
+SL-SCH
+<font size=5>SL-SCH</font>
+<br>
+Sidelink Shared Channel
+<br>
+updated by 249850395@qq.com
+</>
+SLSS
+<font size=5>SLSS</font>
+<br>
+Sidelink Synchronisation Signal
+<br>
+updated by 249850395@qq.com
+</>
+SM
+<font size=5>SM</font>
+<br>
+Session Management 
+<br>
+updated by 249850395@qq.com
+</>
+SMC
+<font size=5>SMC</font>
+<br>
+Security Mode Control
+<br>
+updated by 249850395@qq.com
+</>
+SN
+<font size=5>SN</font>
+<br>
+Serving Network
+<br>
+updated by 249850395@qq.com
+</>
+SN
+<font size=5>SN</font>
+<br>
+Serial Number
+<br>
+updated by 249850395@qq.com
+</>
+SNR
+<font size=5>SNR</font>
+<br>
+Signal-to-noise ratio
+<br>
+updated by 249850395@qq.com
+</>
+SO
+<font size=5>SO</font>
+<br>
+Segment Offset
+<br>
+updated by 249850395@qq.com
+</>
+SoLSA
+<font size=5>SoLSA</font>
+<br>
+Support of Localised Service Areas
+<br>
+updated by 249850395@qq.com
+</>
+SOR-CMCI
+<font size=5>SOR-CMCI</font>
+<br>
+Steering of roaming connected mode control information
+<br>
+updated by 249850395@qq.com
+</>
+SPDCCH
+<font size=5>SPDCCH</font>
+<br>
+Short Physical Downlink Control channel
+<br>
+updated by 249850395@qq.com
+</>
+SPS
+<font size=5>SPS</font>
+<br>
+Semi-Persistent Scheduling
+<br>
+updated by 249850395@qq.com
+</>
+SPS C-RNTI
+<font size=5>SPS C-RNTI</font>
+<br>
+Semi-Persistent Scheduling C-RNTI
+<br>
+updated by 249850395@qq.com
+</>
+SPT
+<font size=5>SPT</font>
+<br>
+Short Processing Time
+<br>
+updated by 249850395@qq.com
+</>
+SPUCCH
+<font size=5>SPUCCH</font>
+<br>
+Short Physical Uplink Control channel
+<br>
+updated by 249850395@qq.com
+</>
+SPUCCH
+<font size=5>SPUCCH</font>
+<br>
+Short Physical Uplink Control Channel
+<br>
+updated by 249850395@qq.com
+</>
+SQN
+<font size=5>SQN</font>
+<br>
+SeQuence Number
+<br>
+updated by 249850395@qq.com
+</>
+SR
+<font size=5>SR</font>
+<br>
+Scheduling Request
+<br>
+updated by 249850395@qq.com
+</>
+SR
+<font size=5>SR</font>
+<br>
+Silent redial
+<br>
+updated by 249850395@qq.com
+</>
+SRB
+<font size=5>SRB</font>
+<br>
+Signalling Radio Bearer
+<br>
+updated by 249850395@qq.com
+</>
+SRB
+<font size=5>SRB</font>
+<br>
+Signalling Radio Bearer carrying control plane data
+<br>
+updated by 249850395@qq.com
+</>
+SREG
+<font size=5>SREG</font>
+<br>
+Short Resource-Element Group
+<br>
+updated by 249850395@qq.com
+</>
+SRES
+<font size=5>SRES</font>
+<br>
+Signed RESponse calculated by a USIM
+<br>
+updated by 249850395@qq.com
+</>
+SRS
+<font size=5>SRS</font>
+<br>
+Sounding Reference Signal
+<br>
+updated by 249850395@qq.com
+</>
+SRS
+<font size=5>SRS</font>
+<br>
+Sounding Reference Signal
+<br>
+updated by 249850395@qq.com
+</>
+S-RSRP
+<font size=5>S-RSRP</font>
+<br>
+Sidelink Reference Signal Received Power
+<br>
+updated by 249850395@qq.com
+</>
+SSAC
+<font size=5>SSAC</font>
+<br>
+Service Specific Access Control
+<br>
+updated by 249850395@qq.com
+</>
+SSB
+<font size=5>SSB</font>
+<br>
+Synchronization signal block
+<br>
+updated by 249850395@qq.com
+</>
+SSTD
+<font size=5>SSTD</font>
+<br>
+SFN and Subframe Timing Difference
+<br>
+updated by 249850395@qq.com
+</>
+STAG
+<font size=5>STAG</font>
+<br>
+Secondary Timing Advance Group
+<br>
+updated by 249850395@qq.com
+</>
+sTAG
+<font size=5>sTAG</font>
+<br>
+Secondary Timing Advance Group
+<br>
+updated by 249850395@qq.com
+</>
+STCH
+<font size=5>STCH</font>
+<br>
+Sidelink Traffic Channel
+<br>
+updated by 249850395@qq.com
+</>
+S-TMSI
+<font size=5>S-TMSI</font>
+<br>
+SAE Temporary Mobile Station Identifier
+<br>
+updated by 249850395@qq.com
+</>
+S-TMSI
+<font size=5>S-TMSI</font>
+<br>
+S-Temporary Mobile Subscriber Identity
+<br>
+updated by 249850395@qq.com
+</>
+STTI
+<font size=5>STTI</font>
+<br>
+Short TTI
+<br>
+updated by 249850395@qq.com
+</>
+STUN
+<font size=5>STUN</font>
+<br>
+Session Traversal Utilities for NAT
+<br>
+updated by 249850395@qq.com
+</>
+SUCI
+<font size=5>SUCI</font>
+<br>
+Subscription Concealed Identifier 
+<br>
+updated by 249850395@qq.com
+</>
+SUL
+<font size=5>SUL</font>
+<br>
+Supplementary uplink
+<br>
+updated by 249850395@qq.com
+</>
+SUPI
+<font size=5>SUPI</font>
+<br>
+Subscription Permanent Identifier
+<br>
+updated by 249850395@qq.com
+</>
+SW
+<font size=5>SW</font>
+<br>
+Status Word 
+<br>
+updated by 249850395@qq.com
+</>
+TA
+<font size=5>TA</font>
+<br>
+Time alignment
+<br>
+updated by 249850395@qq.com
+</>
+TA
+<font size=5>TA</font>
+<br>
+Tracking Area
+<br>
+updated by 249850395@qq.com
+</>
+TA
+<font size=5>TA</font>
+<br>
+Terminal Adaptor, e.g. a GSM data card (equal to DCE; Data Circuit terminating Equipment)
+<br>
+updated by 249850395@qq.com
+</>
+TA
+<font size=5>TA</font>
+<br>
+Terminal acceptance
+<br>
+updated by 249850395@qq.com
+</>
+TAC
+<font size=5>TAC</font>
+<br>
+Type Approval Code
+<br>
+updated by 249850395@qq.com
+</>
+TAC
+<font size=5>TAC</font>
+<br>
+Tracking Area Code
+<br>
+updated by 249850395@qq.com
+</>
+TAG
+<font size=5>TAG</font>
+<br>
+Timing Advance Group
+<br>
+updated by 249850395@qq.com
+</>
+TAI
+<font size=5>TAI</font>
+<br>
+Tracking Area Identity
+<br>
+updated by 249850395@qq.com
+</>
+TB
+<font size=5>TB</font>
+<br>
+Transport block
+<br>
+updated by 249850395@qq.com
+</>
+TCP
+<font size=5>TCP</font>
+<br>
+Transmission Control Protocol
+<br>
+updated by 249850395@qq.com
+</>
+TDD
+<font size=5>TDD</font>
+<br>
+Time Division Duplexing
+<br>
+updated by 249850395@qq.com
+</>
+TDM
+<font size=5>TDM</font>
+<br>
+Time Division Multiplexing
+<br>
+updated by 249850395@qq.com
+</>
+TE
+<font size=5>TE</font>
+<br>
+Terminal Equipment, e.g. a computer (equal to DTE; Data Terminal Equipment)
+<br>
+updated by 249850395@qq.com
+</>
+TFT
+<font size=5>TFT</font>
+<br>
+Traffic Flow Template
+<br>
+updated by 249850395@qq.com
+</>
+TI
+<font size=5>TI</font>
+<br>
+Transaction Identifier
+<br>
+updated by 249850395@qq.com
+</>
+TIA
+<font size=5>TIA</font>
+<br>
+Telecommunications Industry Association
+<br>
+updated by 249850395@qq.com
+</>
+TIN
+<font size=5>TIN</font>
+<br>
+Temporary Identity used in Next update
+<br>
+updated by 249850395@qq.com
+</>
+TLS
+<font size=5>TLS</font>
+<br>
+Transport Layer Security
+<br>
+updated by 249850395@qq.com
+</>
+TLV
+<font size=5>TLV</font>
+<br>
+Tag Length Value
+<br>
+updated by 249850395@qq.com
+</>
+TM
+<font size=5>TM</font>
+<br>
+Transparent Mode
+<br>
+updated by 249850395@qq.com
+</>
+TMD
+<font size=5>TMD</font>
+<br>
+TM Data
+<br>
+updated by 249850395@qq.com
+</>
+TMGI
+<font size=5>TMGI</font>
+<br>
+Temporary Mobile Group Identity
+<br>
+updated by 249850395@qq.com
+</>
+TPC
+<font size=5>TPC</font>
+<br>
+Transition pilot channel
+<br>
+updated by 249850395@qq.com
+</>
+TPC-PUCCH-RNTI
+<font size=5>TPC-PUCCH-RNTI</font>
+<br>
+Transmit Power Control-Physical Uplink Control Channel-RNTI
+<br>
+updated by 249850395@qq.com
+</>
+TPC-RNTI
+<font size=5>TPC-RNTI</font>
+<br>
+Transmit Power Control RNTI
+<br>
+updated by 249850395@qq.com
+</>
+TPMI
+<font size=5>TPMI</font>
+<br>
+Transmitted Precoding Matrix Indicator
+<br>
+updated by 249850395@qq.com
+</>
+T-RPT
+<font size=5>T-RPT</font>
+<br>
+Time Resource Pattern of Transmission
+<br>
+updated by 249850395@qq.com
+</>
+TTI
+<font size=5>TTI</font>
+<br>
+Transmission Time Interval 
+<br>
+updated by 249850395@qq.com
+</>
+TTT
+<font size=5>TTT</font>
+<br>
+Time To Trigger
+<br>
+updated by 249850395@qq.com
+</>
+TURN
+<font size=5>TURN</font>
+<br>
+Traversal Using Relay NAT
+<br>
+updated by 249850395@qq.com
+</>
+TV
+<font size=5>TV</font>
+<br>
+Television
+<br>
+updated by 249850395@qq.com
+</>
+TX Diversity 
+<font size=5>TX Diversity </font>
+<br>
+Transmit Diversity
+<br>
+updated by 249850395@qq.com
+</>
+UA
+<font size=5>UA</font>
+<br>
+User Agent
+<br>
+updated by 249850395@qq.com
+</>
+UAC
+<font size=5>UAC</font>
+<br>
+User Agent Client
+<br>
+updated by 249850395@qq.com
+</>
+UAC
+<font size=5>UAC</font>
+<br>
+Unified Access Control
+<br>
+updated by 249850395@qq.com
+</>
+UAS
+<font size=5>UAS</font>
+<br>
+User Agent Server
+<br>
+updated by 249850395@qq.com
+</>
+UCI
+<font size=5>UCI</font>
+<br>
+Uplink Control Information
+<br>
+updated by 249850395@qq.com
+</>
+UCS2
+<font size=5>UCS2</font>
+<br>
+Universal Character Set 2
+<br>
+updated by 249850395@qq.com
+</>
+UDC
+<font size=5>UDC</font>
+<br>
+Uplink Data Compression
+<br>
+updated by 249850395@qq.com
+</>
+UDI
+<font size=5>UDI</font>
+<br>
+Unrestricted Digital Information 
+<br>
+updated by 249850395@qq.com
+</>
+UDP
+<font size=5>UDP</font>
+<br>
+User Datagram Protocol
+<br>
+updated by 249850395@qq.com
+</>
+UDT
+<font size=5>UDT</font>
+<br>
+User Data Transfer
+<br>
+updated by 249850395@qq.com
+</>
+UDVM
+<font size=5>UDVM</font>
+<br>
+Universal Decompressor Virtual Machine
+<br>
+updated by 249850395@qq.com
+</>
+UE
+<font size=5>UE</font>
+<br>
+User Equipment
+<br>
+updated by 249850395@qq.com
+</>
+UICC
+<font size=5>UICC</font>
+<br>
+Universal Integrated Circuit Card
+<br>
+updated by 249850395@qq.com
+</>
+UL
+<font size=5>UL</font>
+<br>
+Uplink
+<br>
+updated by 249850395@qq.com
+</>
+UL-SCH
+<font size=5>UL-SCH</font>
+<br>
+ Uplink Shared channel
+<br>
+updated by 249850395@qq.com
+</>
+UM
+<font size=5>UM</font>
+<br>
+Unacknowledged Mode
+<br>
+updated by 249850395@qq.com
+</>
+X-MAC 
+<font size=5>X-MAC </font>
+<br>
+Computed MAC-I
+<br>
+updated by 249850395@qq.com
+</>
+UMD
+<font size=5>UMD</font>
+<br>
+UM Data
+<br>
+updated by 249850395@qq.com
+</>
+UP
+<font size=5>UP</font>
+<br>
+User Plane
+<br>
+updated by 249850395@qq.com
+</>
+UP-EDT
+<font size=5>UP-EDT</font>
+<br>
+User Plane EDT
+<br>
+updated by 249850395@qq.com
+</>
+URI
+<font size=5>URI</font>
+<br>
+Uniform Resource Identifier
+<br>
+updated by 249850395@qq.com
+</>
+URL
+<font size=5>URL</font>
+<br>
+Uniform Resource Locator
+<br>
+updated by 249850395@qq.com
+</>
+URN
+<font size=5>URN</font>
+<br>
+Uniform Resource Name
+<br>
+updated by 249850395@qq.com
+</>
+URSP
+<font size=5>URSP</font>
+<br>
+UE Route Selection Policy
+<br>
+updated by 249850395@qq.com
+</>
+USAT
+<font size=5>USAT</font>
+<br>
+Universal Subscriber Identity Module Application Toolkit
+<br>
+updated by 249850395@qq.com
+</>
+USAT
+<font size=5>USAT</font>
+<br>
+USIM Application Toolkit
+<br>
+updated by 249850395@qq.com
+</>
+USD
+<font size=5>USD</font>
+<br>
+User Service Description
+<br>
+updated by 249850395@qq.com
+</>
+USIM
+<font size=5>USIM</font>
+<br>
+Universal Subscriber Identity Module
+<br>
+updated by 249850395@qq.com
+</>
+UT
+<font size=5>UT</font>
+<br>
+Universal Time
+<br>
+updated by 249850395@qq.com
+</>
+UTC
+<font size=5>UTC</font>
+<br>
+Coordinated Universal Time
+<br>
+updated by 249850395@qq.com
+</>
+UTRA
+<font size=5>UTRA</font>
+<br>
+Universal Terrestrial Radio Access
+<br>
+updated by 249850395@qq.com
+</>
+UTRAN
+<font size=5>UTRAN</font>
+<br>
+Universal Terrestrial Radio Access Network
+<br>
+updated by 249850395@qq.com
+</>
+V2I
+<font size=5>V2I</font>
+<br>
+Vehicle-to-Infrastructure
+<br>
+updated by 249850395@qq.com
+</>
+V2N
+<font size=5>V2N</font>
+<br>
+Vehicle-to-Network
+<br>
+updated by 249850395@qq.com
+</>
+V2P
+<font size=5>V2P</font>
+<br>
+Vehicle-to-Pedestrian
+<br>
+updated by 249850395@qq.com
+</>
+V2V
+<font size=5>V2V</font>
+<br>
+Vehicle-to-Vehicle
+<br>
+updated by 249850395@qq.com
+</>
+V2X
+<font size=5>V2X</font>
+<br>
+Vehicle-to-Everything
+<br>
+updated by 249850395@qq.com
+</>
+VBS
+<font size=5>VBS</font>
+<br>
+Voice Broadcast Service
+<br>
+updated by 249850395@qq.com
+</>
+VGCS
+<font size=5>VGCS</font>
+<br>
+Voice Group Call Service
+<br>
+updated by 249850395@qq.com
+</>
+VLR
+<font size=5>VLR</font>
+<br>
+Visitor Location Register
+<br>
+updated by 249850395@qq.com
+</>
+VoLTE
+<font size=5>VoLTE</font>
+<br>
+Voice over Long Term Evolution
+<br>
+updated by 249850395@qq.com
+</>
+VPLMN
+<font size=5>VPLMN</font>
+<br>
+Visited PLMN
+<br>
+updated by 249850395@qq.com
+</>
+VRB
+<font size=5>VRB</font>
+<br>
+Virtual Resource Block
+<br>
+updated by 249850395@qq.com
+</>
+WLAN
+<font size=5>WLAN</font>
+<br>
+Wireless Local Area Network
+<br>
+updated by 249850395@qq.com
+</>
+WSID
+<font size=5>WSID</font>
+<br>
+WLAN Specific Identifier
+<br>
+updated by 249850395@qq.com
+</>
+WT
+<font size=5>WT</font>
+<br>
+WLAN Termination
+<br>
+updated by 249850395@qq.com
+</>
+WUS
+<font size=5>WUS</font>
+<br>
+Wake-up Signal
+<br>
+updated by 249850395@qq.com
+</>
+x
+<font size=5>x</font>
+<br>
+prohibited
+<br>
+updated by 249850395@qq.com
+</>
+xDSL
+<font size=5>xDSL</font>
+<br>
+Digital Subscriber Line (all types)
+<br>
+updated by 249850395@qq.com
+</>
+XMAC
+<font size=5>XMAC</font>
+<br>
+expected MAC
+<br>
+updated by 249850395@qq.com
+</>
+XML
+<font size=5>XML</font>
+<br>
+eXtensible Markup Language
+<br>
+updated by 249850395@qq.com
+</>
+XRES
+<font size=5>XRES</font>
+<br>
+Expected user RESponse
+<br>
+updated by 249850395@qq.com
+</>
+P-CSCF
+<font size=5>P-CSCF</font>
+<br>
+Proxy-CSCF
+<br>
+updated by 249850395@qq.com
+</>
+R-UIM
+<font size=5>R-UIM</font>
+<br>
+Removable User Identity Module
+<br>
+updated by 249850395@qq.com
+</>
+S-CSCF
+<font size=5>S-CSCF</font>
+<br>
+Serving-CSCF
+<br>
+updated by 249850395@qq.com
+</>
+SA
+<font size=5>SA</font>
+<br>
+Security Association
+<br>
+updated by 249850395@qq.com
+</>
+SEG
+<font size=5>SEG</font>
+<br>
+Security Gateway
+<br>
+updated by 249850395@qq.com
+</>
+SD-AV
+<font size=5>SD-AV</font>
+<br>
+SIP Digest Authentication Vector
+<br>
+updated by 249850395@qq.com
+</>
+TNA
+<font size=5>TNA</font>
+<br>
+Trusted Node Authentication
+<br>
+updated by 249850395@qq.com
+</>
+SR
+<font size=5>SR</font>
+<br>
+Scheduling Request
+<br>
+updated by 249850395@qq.com
+</>
+SRS
+<font size=5>SRS</font>
+<br>
+Sounding Reference Symbol
+<br>
+updated by 249850395@qq.com
+</>
+UCI
+<font size=5>UCI</font>
+<br>
+Uplink Control Information
+<br>
+updated by 249850395@qq.com
+</>
+UE
+<font size=5>UE</font>
+<br>
+User Equipment 
+<br>
+updated by 249850395@qq.com
+</>
+UL-SCH
+<font size=5>UL-SCH</font>
+<br>
+Uplink Shared Channel
+<br>
+updated by 249850395@qq.com
+</>
+ACL
+<font size=5>ACL</font>
+<br>
+Access Control List
+<br>
+updated by 249850395@qq.com
+</>
+BBF
+<font size=5>BBF</font>
+<br>
+Broadband Forum
+<br>
+updated by 249850395@qq.com
+</>
+CCO
+<font size=5>CCO</font>
+<br>
+Cell Change Order
+<br>
+updated by 249850395@qq.com
+</>
+CDMA
+<font size=5>CDMA</font>
+<br>
+Code Division Multiple Access
+<br>
+updated by 249850395@qq.com
+</>
+CID
+<font size=5>CID</font>
+<br>
+Cell-ID (positioning method)
+<br>
+updated by 249850395@qq.com
+</>
+ECGI
+<font size=5>ECGI</font>
+<br>
+E-UTRAN Cell Global Identifier
+<br>
+updated by 249850395@qq.com
+</>
+E-CID
+<font size=5>E-CID</font>
+<br>
+Enhanced Cell-ID (positioning method)
+<br>
+updated by 249850395@qq.com
+</>
+eNB
+<font size=5>eNB</font>
+<br>
+E-UTRAN NodeB
+<br>
+updated by 249850395@qq.com
+</>
+EP
+<font size=5>EP</font>
+<br>
+Elementary Procedure
+<br>
+updated by 249850395@qq.com
+</>
+EPC
+<font size=5>EPC</font>
+<br>
+Evolved Packet Core 
+<br>
+updated by 249850395@qq.com
+</>
+E-RAB
+<font size=5>E-RAB</font>
+<br>
+E-UTRAN Radio Access Bearer
+<br>
+updated by 249850395@qq.com
+</>
+E-SMLC
+<font size=5>E-SMLC</font>
+<br>
+Evolved Serving Mobile Location Centre
+<br>
+updated by 249850395@qq.com
+</>
+E-UTRAN
+<font size=5>E-UTRAN</font>
+<br>
+Evolved UTRAN
+<br>
+updated by 249850395@qq.com
+</>
+GTP
+<font size=5>GTP</font>
+<br>
+GPRS Tunneling Protocol
+<br>
+updated by 249850395@qq.com
+</>
+L-GW
+<font size=5>L-GW</font>
+<br>
+Local GateWay
+<br>
+updated by 249850395@qq.com
+</>
+LHN
+<font size=5>LHN</font>
+<br>
+Local Home Network
+<br>
+updated by 249850395@qq.com
+</>
+LHN ID
+<font size=5>LHN ID</font>
+<br>
+Local Home Network ID
+<br>
+updated by 249850395@qq.com
+</>
+LIPA
+<font size=5>LIPA</font>
+<br>
+Local IP Access 
+<br>
+updated by 249850395@qq.com
+</>
+LPPa
+<font size=5>LPPa</font>
+<br>
+LTE Positioning Protocol Annex
+<br>
+updated by 249850395@qq.com
+</>
+NNSF
+<font size=5>NNSF</font>
+<br>
+NAS Node Selection Function 
+<br>
+updated by 249850395@qq.com
+</>
+OTDOA
+<font size=5>OTDOA</font>
+<br>
+Observed Time Difference of Arrival
+<br>
+updated by 249850395@qq.com
+</>
+PWS
+<font size=5>PWS</font>
+<br>
+Public Warning System
+<br>
+updated by 249850395@qq.com
+</>
+RIM
+<font size=5>RIM</font>
+<br>
+RAN Information Management
+<br>
+updated by 249850395@qq.com
+</>
+S-GW
+<font size=5>S-GW</font>
+<br>
+Serving GateWay
+<br>
+updated by 249850395@qq.com
+</>
+SN
+<font size=5>SN</font>
+<br>
+Sequence Number
+<br>
+updated by 249850395@qq.com
+</>
+SIPTO@LN
+<font size=5>SIPTO@LN</font>
+<br>
+Selected IP Traffic Offload at the Local Network
+<br>
+updated by 249850395@qq.com
+</>
+TEID
+<font size=5>TEID</font>
+<br>
+Tunnel Endpoint Identifier
+<br>
+updated by 249850395@qq.com
+</>
+UE-AMBR
+<font size=5>UE-AMBR</font>
+<br>
+UE-Aggregate Maximum Bitrate
+<br>
+updated by 249850395@qq.com
+</>
+UTDOA
+<font size=5>UTDOA</font>
+<br>
+Uplink Time Difference of Arrival
+<br>
+updated by 249850395@qq.com
+</>
+A/Gb mode only
+<font size=5>A/Gb mode only</font>
+<br>
+Indicates this clause applies only to a GSM system which operates in A/Gb mode. For multi system case this is determined by the current serving radio access network.
+<br>
+updated by 249850395@qq.com
+</>
+Iu mode only
+<font size=5>Iu mode only</font>
+<br>
+Indicates this clause applies only to UMTS system. For multi system case this is determined by the current serving radio access network.
+<br>
+updated by 249850395@qq.com
+</>
+Acceptable Cell
+<font size=5>Acceptable Cell</font>
+<br>
+This is a cell that the MS may camp on to make emergency calls. It must satisfy criteria which are defined for A/Gb mode in 3GPP TS 43.022 [35], for Iu mode in 3GPP TS 25.304 [32], and for S1 mode in 3GPP TS 36.304 [43].
+<br>
+updated by 249850395@qq.com
+</>
+Access Technology
+<font size=5>Access Technology</font>
+<br>
+The access technology associated with a PLMN. The MS uses this information to determine what type of radio carrier to search for when attempting to select a specific PLMN (e.g., GSM, UTRAN, GSM COMPACT or E-UTRAN). A PLMN may support more than one access technology.
+<br>
+updated by 249850395@qq.com
+</>
+Allowable PLMN
+<font size=5>Allowable PLMN</font>
+<br>
+In the case of a MS operating in MS operation mode A or B, this is a PLMN which is not in the list of forbidden PLMNs in the MS. In the case of a MS operating in MS operation mode C, this is a PLMN which is not in the list of forbidden PLMNs or in the list of forbidden PLMNs for GPRS service in the MS
+<br>
+updated by 249850395@qq.com
+</>
+Location Registration LR
+<font size=5>Location Registration LR</font>
+<br>
+An MS which is IMSI attached to non-GPRS services only performs location registration by the Location Updating procedure. A GPRS MS which is IMSI attached to GPRS services or to GPRS and non-GPRS services performs location registration by the Routing Area Update procedure only when in a network of network operation mode I. Both location updating and routing area update procedures are performed independently by the GPRS MS when it is IMSI attached to GPRS and non-GPRS services in a network of network operation mode II (see 3GPP TS 23.060 [27]). An MS which is attached via the E-UTRAN performs location registration by the tracking area update procedure.
+<br>
+updated by 249850395@qq.com
+</>
+Available PLMN/access technology combination
+<font size=5>Available PLMN/access technology combination</font>
+<br>
+This is an available PLMN in a specific access technology.
+<br>
+updated by 249850395@qq.com
+</>
+Camped on a cell
+<font size=5>Camped on a cell</font>
+<br>
+The MS (ME if there is no SIM) has completed the cell selection/reselection process and has chosen a cell from which it plans to receive all available services. Note that the services may be limited, and that the PLMN may not be aware of the existence of the MS (ME) within the chosen cell.
+<br>
+updated by 249850395@qq.com
+</>
+Country
+<font size=5>Country</font>
+<br>
+A country is identified by a single MCC value, with the exception that MCC values 310 through 316 identify a single country (USA) and MCC values 404 through 406 identify a single country (India).
+<br>
+updated by 249850395@qq.com
+</>
+EAB
+<font size=5>EAB</font>
+<br>
+Extended Access Barring,see 3GPP TS 22.011 [9].
+<br>
+updated by 249850395@qq.com
+</>
+Current serving cell
+<font size=5>Current serving cell</font>
+<br>
+This is the cell on which the MS is camped.
+<br>
+updated by 249850395@qq.com
+</>
+CTS MS
+<font size=5>CTS MS</font>
+<br>
+An MS capable of CTS services is a CTS MS.
+<br>
+updated by 249850395@qq.com
+</>
+Available PLMN
+<font size=5>Available PLMN</font>
+<br>
+For GERAN A/Gb mode see 3GPP TS 43.022 [35]. For UTRAN see 3GPP TS 25.304 [32]. For E-UTRAN see 3GPP TS 36.304 [43]. For cdma2000? 1xRTT and cdma2000? HRPD see 3GPP2 C.S0016 [44].
+<br>
+updated by 249850395@qq.com
+</>
+EHPLMN
+<font size=5>EHPLMN</font>
+<br>
+Any of the PLMN entries contained in the Equivalent HPLMN list.
+<br>
+updated by 249850395@qq.com
+</>
+Equivalent HPLMN list
+<font size=5>Equivalent HPLMN list</font>
+<br>
+To allow provision for multiple HPLMN codes, PLMN codes that are present within this list shall replace the HPLMN code derived from the IMSI for PLMN selection purposes. This list is stored on the USIM and is known as the EHPLMN list. The EHPLMN list may also contain the HPLMN code derived from the IMSI. If the HPLMN code derived from the IMSI is not present in the EHPLMN list then it shall be treated as a Visited PLMN for PLMN selection purposes.
+<br>
+updated by 249850395@qq.com
+</>
+GPRS MS
+<font size=5>GPRS MS</font>
+<br>
+An MS capable of GPRS services is a GPRS MS. 
+<br>
+updated by 249850395@qq.com
+</>
+High quality signal
+<font size=5>High quality signal</font>
+<br>
+The high quality signal limit is used in the PLMN selection procedure. It is defined in the appropriate AS specification
+<br>
+updated by 249850395@qq.com
+</>
+Home PLMN
+<font size=5>Home PLMN</font>
+<br>
+This is a PLMN where the MCC and MNC of the PLMN identity match the MCC and MNC of the IMSI. Matching criteria are defined in Annex A.
+<br>
+updated by 249850395@qq.com
+</>
+In A/Gb mode
+<font size=5>In A/Gb mode</font>
+<br>
+Indicates this clause applies only to a GSM system which operates in A/Gb mode. For multi system case this is determined by the current serving radio access network.
+<br>
+updated by 249850395@qq.com
+</>
+In Iu mode
+<font size=5>In Iu mode</font>
+<br>
+Indicates this clause applies only to UMTS system. For multi system case this is determined by the current serving radio access network.
+<br>
+updated by 249850395@qq.com
+</>
+Localised Service Area LSA
+<font size=5>Localised Service Area LSA</font>
+<br>
+A localised service area consists of a cell or a number of cells. The cells constituting a LSA may not necessarily provide contiguous coverage. 
+<br>
+updated by 249850395@qq.com
+</>
+MS
+<font size=5>MS</font>
+<br>
+Mobile Station. The present document makes no distinction between MS and UE.
+<br>
+updated by 249850395@qq.com
+</>
+SIM
+<font size=5>SIM</font>
+<br>
+Subscriber Identity Module (see 3GPP TS 21.111 [38]). The present document makes no distinction between SIM and USIM.
+<br>
+updated by 249850395@qq.com
+</>
+Registered PLMN RPLMN
+<font size=5>Registered PLMN RPLMN</font>
+<br>
+This is the PLMN on which certain LR outcomes have occurred (see table 1). In a shared network the RPLMN is the PLMN defined by the PLMN identity of the CN operator that has accepted the LR.
+<br>
+updated by 249850395@qq.com
+</>
+Registration
+<font size=5>Registration</font>
+<br>
+This is the process of camping on a cell of the PLMN and doing any necessary LRs.
+<br>
+updated by 249850395@qq.com
+</>
+Registration Area
+<font size=5>Registration Area</font>
+<br>
+A registration area is an area in which mobile stations may roam without a need to perform location registration. The registration area corresponds to location area (LA) for performing location updating procedure, to routing area for performing the GPRS attach or routing area update procedures,and to list of tracking areas (TAs) for performing the EPS attach or tracking area update procedure.The PLMN to which a cell belongs (PLMN identity) is given in the system information transmitted on the BCCH (MCC + MNC part of LAI). In a shared network a cell belongs to all PLMNs given in the system information transmitted on the BCCH.
+<br>
+updated by 249850395@qq.com
+</>
+Selected PLMN
+<font size=5>Selected PLMN</font>
+<br>
+This is the PLMN that has been selected according to subclause 3.1, either manually or automatically.
+<br>
+updated by 249850395@qq.com
+</>
+Shared Network
+<font size=5>Shared Network</font>
+<br>
+An MS considers a cell to be part of a shared network, when multiple PLMN identities are received on the BCCH.  
+<br>
+updated by 249850395@qq.com
+</>
+Network Type
+<font size=5>Network Type</font>
+<br>
+The network type associated with HPLMN or a PLMN on the PLMN selector (see 3GPP TS 31.102 [40]). The MS uses this information to determine what type of radio carrier to search for when attempting to select a specific PLMN. A PLMN may support more than one network type. 
+<br>
+updated by 249850395@qq.com
+</>
+SoLSA exclusive access
+<font size=5>SoLSA exclusive access</font>
+<br>
+Cells on which normal camping is allowed only for MS with Localised Service Area (LSA) subscription.
+<br>
+updated by 249850395@qq.com
+</>
+Suitable Cell
+<font size=5>Suitable Cell</font>
+<br>
+This is a cell on which an MS may camp. It must satisfy criteria which are defined for GERAN A/Gb mode in 3GPP TS 43.022 [35], for UTRAN in 3GPP TS 25.304 [32] and for E-UTRAN in 3GPP TS 36.304 [43]. For 3GPP2 access technologies the criteria are defined in 3GPP2 C.S0011 [45] for cdma2000? 1xRTT and in 3GPP2 C.S0033 [46] for cdma2000? HRPD.
+<br>
+updated by 249850395@qq.com
+</>
+Steering of Roaming
+<font size=5>Steering of Roaming</font>
+<br>
+A technique whereby a roaming UE is encouraged to roam to a preferred roamed-to network by the HPLMN.
+<br>
+updated by 249850395@qq.com
+</>
+Visited PLMN
+<font size=5>Visited PLMN</font>
+<br>
+This is a PLMN different from the HPLMN (if the EHPLMN list is not present or is empty) or different from an EHPLMN (if the EHPLMN list is present).
+<br>
+updated by 249850395@qq.com
+</>
+Application Layer connection-less group
+<font size=5>Application Layer connection-less group</font>
+<br>
+An application layer group without group formation in the V2X application layer, e.g., sensor sharing.
+<br>
+updated by 249850395@qq.com
+</>
+Application Layer ID
+<font size=5>Application Layer ID</font>
+<br>
+An identifier identifying an entity, e.g. a vehicle, a pedestrian, an RSU within the context of a specific V2X application. The format of this identifier is outside the scope of 3GPP.
+<br>
+updated by 249850395@qq.com
+</>
+Application Layer managed group
+<font size=5>Application Layer managed group</font>
+<br>
+An application layer group with group formation and management in the V2X application layer, e.g., platooning, cooperative adaptive cruise control.
+<br>
+updated by 249850395@qq.com
+</>
+Groupcast mode communication
+<font size=5>Groupcast mode communication</font>
+<br>
+It refers to V2X communication over PC5 reference point within a group of UEs where any UE in the group can act as transmitting UE and the rest act as receiving UEs. See also TS 38.300 [11] for more information. The group here refers to Application Layer managed group or Application Layer connection-less group.
+<br>
+updated by 249850395@qq.com
+</>
+Member ID
+<font size=5>Member ID</font>
+<br>
+An identifier uniquely identifying a member in the Application Layer managed group and that is managed by the V2X application layer.
+<br>
+updated by 249850395@qq.com
+</>
+Mode of communication
+<font size=5>Mode of communication</font>
+<br>
+Mode of communication to be used by the UE over PC5 reference point i.e. broadcast mode (LTE PC5 and NR PC5), groupcast mode (NR PC5) or unicast mode (NR PC5).
+<br>
+updated by 249850395@qq.com
+</>
+V2X application
+<font size=5>V2X application</font>
+<br>
+An application using one or more V2X services e.g. an active safety application in a vehicle, using V2X services such as emergency warning and vehicle to vehicle safety and awareness. A V2X application may operate towards a V2X Application Server.
+<br>
+updated by 249850395@qq.com
+</>
+V2X communication
+<font size=5>V2X communication</font>
+<br>
+A communication to support Vehicle-to-Everything (V2X) services leveraging Uu and / or PC5 reference points. V2X services are realized by various types of V2X applications, i.e. Vehicle-to-Vehicle (V2V), Vehicle-to-Pedestrian (V2P), Vehicle-to-Infrastructure (V2I) and Vehicle-to-Network (V2N).
+<br>
+updated by 249850395@qq.com
+</>
+V2X message
+<font size=5>V2X message</font>
+<br>
+A dedicated messaging type of V2X service, for example ITS messages.
+<br>
+updated by 249850395@qq.com
+</>
+V2X service
+<font size=5>V2X service</font>
+<br>
+A data service, offered to V2X applications and optionally V2X Application Servers. A V2X service belongs to one V2X service type. It may include message or other data delivery, as defined in TS 22.185 [2] and TS 22.186 [3]. A V2X service can be associated with one or more V2X applications, and a V2X application can be associated with one or more V2X services.
+<br>
+updated by 249850395@qq.com
+</>
+V2X service type
+<font size=5>V2X service type</font>
+<br>
+A type of V2X service, which is identified by e.g. ITS-AID (ITS Application Identifier), PSID (Provider Service Identifier) or AID (Application Identifier).
+<br>
+updated by 249850395@qq.com
+</>
+RR connection
+<font size=5>RR connection</font>
+<br>
+a RR connection is a dedicated physical circuit switched domain connection used by the two RR or RRC peer entities to support the upper layers' exchange of information flows.
+<br>
+updated by 249850395@qq.com
+</>
+PS signalling connection
+<font size=5>PS signalling connection</font>
+<br>
+ a peer to peer UMTS connection between MS and CN packet domain node.
+<br>
+updated by 249850395@qq.com
+</>
+GPRS
+<font size=5>GPRS</font>
+<br>
+Packet Services for GSM and UMTS system.
+<br>
+updated by 249850395@qq.com
+</>
+A/Gb mode only
+<font size=5>A/Gb mode only</font>
+<br>
+indicates this section or paragraph applies only to GSM system. For multi system case this is determined by the current serving radio access network.
+<br>
+updated by 249850395@qq.com
+</>
+Iu mode only
+<font size=5>Iu mode only</font>
+<br>
+indicates this section or paragraph applies only to UMTS system. For multi system case this is determined by the current serving radio access network.
+<br>
+updated by 249850395@qq.com
+</>
+S1 mode only
+<font size=5>S1 mode only</font>
+<br>
+indicates this section or paragraph applies only to Evolved Packet Core (EPC) and E-UTRAN access. For multi system case this is determined by the current serving radio access network.
+<br>
+updated by 249850395@qq.com
+</>
+In A/Gb mode
+<font size=5>In A/Gb mode</font>
+<br>
+Indicates this paragraph applies only to GSM System. For multi system case this is determined by the current serving radio access network.
+<br>
+updated by 249850395@qq.com
+</>
+In Iu mode
+<font size=5>In Iu mode</font>
+<br>
+Indicates this paragraph applies only to UMTS System. For multi system case this is determined by the current serving radio access network.
+<br>
+updated by 249850395@qq.com
+</>
+In S1 mode
+<font size=5>In S1 mode</font>
+<br>
+Indicates this paragraph applies only to Evolved Packet Core and E-UTRAN access. For multi system case this is determined by the current serving radio access network.
+<br>
+updated by 249850395@qq.com
+</>
+SIM
+<font size=5>SIM</font>
+<br>
+Subscriber Identity Module (see 3GPP TS 42.017 [5c]). This specification makes no distinction between SIM and USIM.
+<br>
+updated by 249850395@qq.com
+</>
+MS
+<font size=5>MS</font>
+<br>
+Mobile Station. This specification makes no distinction between MS and UE.
+<br>
+updated by 249850395@qq.com
+</>
+GSM security context
+<font size=5>GSM security context</font>
+<br>
+A GSM security context is established and stored in the MS and the network as a result of a successful execution of a GSM authentication challenge. The GSM security context for the CS domain consists of the GSM ciphering key and the ciphering key sequence number. The GSM security context for the PS domain consists of the GPRS GSM ciphering key and the GPRS ciphering key sequence number.
+<br>
+updated by 249850395@qq.com
+</>
+UMTS security context
+<font size=5>UMTS security context</font>
+<br>
+A UMTS security context is established and stored in the MS and the network as a result of a successful execution of a UMTS authentication challenge. The UMTS security context for the CS domain consists of the UMTS ciphering key, the UMTS integrity key, the GSM ciphering key, the ciphering key sequence number and the GSM Kc128 (if an A5 ciphering algorithm that requires a 128-bit ciphering key is in use). The UMTS security context for the PS domain consists of the GPRS UMTS ciphering key, the GPRS UMTS integrity key, the GPRS GSM ciphering key, the GPRS ciphering key sequence number and the GPRS GSM Kc128 (if a GEA ciphering algorithm that requires a 128-bit ciphering key is in use).
+<br>
+updated by 249850395@qq.com
+</>
+attached for emergency bearer services
+<font size=5>attached for emergency bearer services</font>
+<br>
+An MS is attached for emergency bearer services if it has successfully completed an attach for emergency bearer services or if it has only a PDN connection for emergency bearer services established.
+<br>
+updated by 249850395@qq.com
+</>
+idle mode
+<font size=5>idle mode</font>
+<br>
+In this mode,the mobile station is not allocated any dedicated channel; it listens to the CCCH and the BCCH;
+<br>
+updated by 249850395@qq.com
+</>
+group receive mode
+<font size=5>group receive mode</font>
+<br>
+(only applicable for mobile stations supporting VGCS listening or VBS listening) In this mode, the mobile station is not allocated a dedicated channel with the network; it listens to the downlink of a voice broadcast channel or voice group call channel allocated to the cell. Occasionally, the mobile station has to listen to the BCCH of the serving cell as defined in 3GPP TS 43.022 [82] and 3GPP TS 45.008 [34];
+<br>
+updated by 249850395@qq.com
+</>
+dedicated mode
+<font size=5>dedicated mode</font>
+<br>
+In this mode,the mobile station is allocated at least two dedicated channels, only one of them being a SACCH;
+<br>
+updated by 249850395@qq.com
+</>
+EAB
+<font size=5>EAB</font>
+<br>
+Extended Access Barring,see 3GPP TS 22.011 [138]
+<br>
+updated by 249850395@qq.com
+</>
+group transmit mode
+<font size=5>group transmit mode</font>
+<br>
+(only applicable for mobile stations supporting VGCS talking) In this mode, one mobile station of a voice group call is allocated two dedicated channels, one of them being a SACCH. These channels can be allocated to one mobile station at a time but to different mobile stations during the voice group call; 
+<br>
+updated by 249850395@qq.com
+</>
+packet idle mode
+<font size=5>packet idle mode</font>
+<br>
+(only applicable for mobile stations supporting GPRS) In this mode, mobile station is not allocated any radio resource on a packet data physical channel; it listens to the BCCH and the CCCH, see 3GPP TS 44.060 [76].
+<br>
+updated by 249850395@qq.com
+</>
+packet transfer mode
+<font size=5>packet transfer mode</font>
+<br>
+(only applicable for mobile stations supporting GPRS) In this mode, the mobile station is allocated radio resource on one or more packet data physical channels for the transfer of LLC PDUs.
+<br>
+updated by 249850395@qq.com
 </>
