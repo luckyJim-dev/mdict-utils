@@ -2,7 +2,7 @@
 # instal guide
 `python setup.py install`
 # cd my_dictionary
-change the file `example_txt.txt`
+change the file `example_file.txt`
 # then run
 file_utils.py
 # then use command
