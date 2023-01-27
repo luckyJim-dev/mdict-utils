@@ -11,10 +11,10 @@
 `source ./env/bin/activate` </br>
 `python3 setup.py install`
 ## 4. 编辑字典源文件
-源文件位置：`my_dictionary/example_file.txt`
+源文件位置：`my_dictionary/example_file.txt` </br>
 `python3 my_dictionary/file_utils.py`
 ## 5. 编译生成mdx文件
-`cd my_dictionary`
-`mdict -a example.txt example.mdx`
-注意如果提示tgdm包，请更新pip最新，并安装此依赖包
+`cd my_dictionary` </br>
+`mdict -a example.txt example.mdx` </br>
+注意如果提示tgdm包，请更新pip最新，并安装此依赖包 </br>
 `pip install tqdm`
