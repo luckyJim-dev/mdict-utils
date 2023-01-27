@@ -2,9 +2,9 @@
 ## 检查Python版本
 `python3 --version`
 ## 2. 创建虚拟环境
+`cd mdict-utils` </br>
 `python3 -m venv env`
 ## 3. 安装依赖包
-`cd mdict-utils`
 `python3 setup.py install`
 ## 4. 编辑字典源文件
 源文件位置：`my_dictionary/example_file.txt`
