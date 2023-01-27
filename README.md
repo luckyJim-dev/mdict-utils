@@ -19,5 +19,6 @@
 注意如果提示tgdm包，请更新pip最新，并安装此依赖包 </br>
 `pip install tqdm`
 # 更多
-[欧路词典导入词库哔哩哔哩教程](https://www.bilibili.com/video/BV1R24y167hn/?spm_id_from=333.999.0.0&vd_source=fd4563490a26f945829ef0bfa7a8397c)
-[制作词库哔哩哔哩教程]()
+[制作词库教程](https://www.bilibili.com/video/BV1z34y1f7gS/?vd_source=fd4563490a26f945829ef0bfa7a8397c) | 
+[欧路词典导入词库教程](https://www.bilibili.com/video/BV1R24y167hn/?spm_id_from=333.999.0.0&vd_source=fd4563490a26f945829ef0bfa7a8397c)
+
