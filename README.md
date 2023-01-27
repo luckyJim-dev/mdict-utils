@@ -1,8 +1,8 @@
 # 1. 创建虚拟环境
 ## 检查Python版本
-`python --version`
+`python3 --version`
 ## 2. 创建虚拟环境
-`python -m venv env`
+`python3 -m venv env`
 ## 3. 安装依赖包
 `cd mdict-utils`
 `python setup.py install`
